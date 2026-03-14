@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "KLiG9RJxgRY" >}}
+
+
 ## The Ultimate Showdown: Freelance vs Full-Time Developer Careers - What's Right for You?
 As a **developer**, you're likely no stranger to the age-old debate: **freelance** vs **full-time**. While both paths have their perks, it's essential to weigh the pros and cons before making a decision. When it comes to **salary**, **job security**, and **work-life balance**, the choice between freelance and full-time development careers can be a daunting one. In this article, we'll delve into the real numbers and explore what each path has to offer, helping you make an informed decision about your **developer** career.
 

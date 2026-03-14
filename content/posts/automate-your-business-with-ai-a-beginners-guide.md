@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "Fn_bc64zEmk" >}}
+
+
 ## Unlock the Power of **Artificial Intelligence**: A Beginner's Guide to Automating Your Business
 As a business owner, you're constantly looking for ways to boost **productivity** and streamline your operations. One way to achieve this is by leveraging **Artificial Intelligence (AI)** to automate repetitive tasks, predict outcomes, and make data-driven decisions. By harnessing the power of AI, you can free up more time to focus on strategy and growth, rather than getting bogged down in mundane tasks. In this article, we'll explore the world of AI and show you how to get started with automating your business.
 

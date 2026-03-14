@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "KgtFDepqWb8" >}}
+
+
 ## Unlock the Power of AI: How to Create and Sell Profitable Online Courses
 The **online course creation** market is booming, with millions of people turning to the internet to learn new skills and expand their knowledge. As a result, the demand for high-quality, engaging online courses is higher than ever. But what sets successful courses apart from the rest? The answer lies in **AI-powered online courses**, which use artificial intelligence to create personalized, interactive, and immersive learning experiences. By leveraging **AI in course creation**, you can boost your earning potential and establish yourself as an expert in your field.
 

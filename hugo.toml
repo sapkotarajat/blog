@@ -9,10 +9,12 @@ buildFuture = true
   env = "production"
   description = "AI tools, tech tutorials, motivation, finance tips, history facts, and nature wonders"
   author = "Rajat Sapkota"
+  defaultTheme = "dark"
+  disableThemeToggle = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
@@ -21,8 +23,8 @@ buildFuture = true
   googleAdsenseId = ""
 
   [params.homeInfoParams]
-    Title = "Tech, AI & Beyond"
-    Content = "Exploring AI tools, tech tutorials, personal finance, motivation, fascinating history, and the wonders of nature."
+    Title = "Blog"
+    Content = "AI tools, tech tutorials, personal finance, motivation, history, and nature."
 
   [[params.socialIcons]]
     name = "youtube"
@@ -31,6 +33,10 @@ buildFuture = true
   [[params.socialIcons]]
     name = "tiktok"
     url = "https://www.tiktok.com/@sapkotarajat"
+
+  [[params.socialIcons]]
+    name = "globe"
+    url = "https://sapkotarajat.com.np"
 
 [taxonomies]
   category = "categories"
