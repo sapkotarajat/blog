@@ -260,24 +260,66 @@ a:hover {
 }
 
 /* Share buttons */
-.share-buttons a {
-  background: #1a1a1a;
-  border-radius: 8px;
-}
-
-.share-buttons a:hover {
-  background: rgba(74, 222, 128, 0.1);
-}
-
-/* Post nav links */
-.paginav a {
+.share-buttons {
   background: #141414;
   border: 1px solid rgba(255, 255, 255, 0.05);
   border-radius: 12px;
 }
 
+.share-buttons a {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.share-buttons a:hover {
+  color: #4ade80;
+}
+
+/* Post content links - green with underline */
+.post-content a {
+  color: #4ade80;
+  box-shadow: 0 1px 0 rgba(74, 222, 128, 0.3);
+}
+
+.post-content a:hover {
+  color: #22c55e;
+  box-shadow: 0 1px 0 #22c55e;
+}
+
+/* Post page separator */
+.post-content hr {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Post title */
+.post-title {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+/* Post nav links (prev/next) */
+.paginav {
+  background: #141414;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+}
+
+.paginav a {
+  background: #141414;
+  border: none;
+  border-radius: 12px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .paginav a:hover {
+  background: #1a1a1a;
   border-color: rgba(74, 222, 128, 0.3);
+}
+
+.paginav .title {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.paginav span:hover:not(.title) {
+  color: #4ade80;
 }
 
 /* Reading time / meta */

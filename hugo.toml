@@ -28,15 +28,19 @@ buildFuture = true
 
   [[params.socialIcons]]
     name = "youtube"
-    url = "https://youtube.com/@rajatsapkota"
+    url = "https://www.youtube.com/@rajatsapkota"
 
   [[params.socialIcons]]
     name = "tiktok"
     url = "https://www.tiktok.com/@sapkotarajat"
 
   [[params.socialIcons]]
-    name = "globe"
-    url = "https://sapkotarajat.com.np"
+    name = "facebook"
+    url = "https://www.facebook.com/sapkotarajat/"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/sapkotarajat"
 
 [taxonomies]
   category = "categories"
