@@ -186,27 +186,45 @@ a:hover {
   color: #4ade80;
 }
 
-/* Home info */
+/* Home info - compact hero */
 .first-entry {
   background: linear-gradient(135deg, #141414, #1a1a1a);
   border: 1px solid rgba(255, 255, 255, 0.05);
   border-radius: 16px;
-  padding: 32px 40px;
+  padding: 20px 24px;
+  min-height: auto;
+  margin: var(--gap) 0 var(--gap) 0;
 }
 
 .first-entry .entry-header h1 {
   color: rgba(255, 255, 255, 0.95);
-  font-size: 2rem;
+  font-size: 1.4rem;
 }
 
 .first-entry .entry-content {
-  color: rgba(255, 255, 255, 0.6);
-  font-size: 1rem;
-  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin: 6px 0;
 }
 
 .first-entry .entry-footer {
-  margin-top: 12px;
+  margin-top: 8px;
+}
+
+@media (max-width: 768px) {
+  .first-entry {
+    padding: 16px 18px;
+    min-height: auto;
+  }
+
+  .first-entry .entry-header h1 {
+    font-size: 1.2rem;
+  }
+
+  .first-entry .entry-content {
+    font-size: 0.8rem;
+  }
 }
 
 /* Pagination */

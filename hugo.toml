@@ -12,13 +12,16 @@ buildFuture = true
   defaultTheme = "dark"
   disableThemeToggle = true
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
   comments = false
+
+  [params.footer]
+    hideCopyright = false
   # Google AdSense - replace with your publisher ID after approval
   googleAdsenseId = ""
 
