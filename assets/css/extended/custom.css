@@ -191,10 +191,22 @@ a:hover {
   background: linear-gradient(135deg, #141414, #1a1a1a);
   border: 1px solid rgba(255, 255, 255, 0.05);
   border-radius: 16px;
+  padding: 32px 40px;
 }
 
 .first-entry .entry-header h1 {
   color: rgba(255, 255, 255, 0.95);
+  font-size: 2rem;
+}
+
+.first-entry .entry-content {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.first-entry .entry-footer {
+  margin-top: 12px;
 }
 
 /* Pagination */
