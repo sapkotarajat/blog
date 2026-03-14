@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Rajat Sapkota - Tech, AI & Beyond"
 theme = "PaperMod"
 paginate = 10
+buildFuture = true
 
 [params]
   env = "production"
@@ -29,7 +30,7 @@ paginate = 10
 
   [[params.socialIcons]]
     name = "tiktok"
-    url = "https://tiktok.com/@rajatsapkota"
+    url = "https://www.tiktok.com/@sapkotarajat"
 
 [taxonomies]
   category = "categories"
