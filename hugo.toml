@@ -1,0 +1,49 @@
+baseURL = "https://rajatsapkota.github.io/"
+languageCode = "en-us"
+title = "Rajat Sapkota - Tech, AI & Beyond"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  env = "production"
+  description = "AI tools, tech tutorials, motivation, finance tips, history facts, and nature wonders"
+  author = "Rajat Sapkota"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
+  # Google AdSense - replace with your publisher ID after approval
+  googleAdsenseId = ""
+
+  [params.homeInfoParams]
+    Title = "Tech, AI & Beyond"
+    Content = "Exploring AI tools, tech tutorials, personal finance, motivation, fascinating history, and the wonders of nature."
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@rajatsapkota"
+
+  [[params.socialIcons]]
+    name = "tiktok"
+    url = "https://tiktok.com/@rajatsapkota"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

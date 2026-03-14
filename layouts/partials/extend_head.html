@@ -1,0 +1,6 @@
+{{ if site.Params.googleAdsenseId }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.googleAdsenseId }}" crossorigin="anonymous"></script>
+{{ end }}
+<!-- SEO extras -->
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ .Permalink }}">
