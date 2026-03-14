@@ -1,6 +1,6 @@
 baseURL = "https://blog.sapkotarajat.com.np/"
 languageCode = "en-us"
-title = "Rajat Sapkota - Tech, AI & Beyond"
+title = "Rajat Sapkota"
 theme = "PaperMod"
 paginate = 10
 buildFuture = true

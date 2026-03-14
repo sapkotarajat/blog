@@ -1,4 +1,4 @@
-/* Match portfolio dark theme: #0a0a0a bg, #141414 cards, green accents */
+/* Match sapkotarajat.com.np portfolio: #0a0a0a bg, #141414 cards, green-blue gradient accents */
 
 :root {
   --theme: #0a0a0a;
@@ -6,24 +6,23 @@
   --primary: rgba(255, 255, 255, 0.9);
   --secondary: rgba(255, 255, 255, 0.6);
   --tertiary: #1a1a1a;
-  --content: rgba(255, 255, 255, 0.8);
-  --code-bg: #2e2e33;
-  --code-block-bg: #2e2e33;
+  --content: rgba(255, 255, 255, 0.7);
+  --code-bg: #141414;
+  --code-block-bg: #141414;
   --border: rgba(255, 255, 255, 0.05);
   --gap: 24px;
   color-scheme: dark;
 }
 
-/* PaperMod uses data-theme="dark", not .dark class */
 :root[data-theme="dark"] {
   --theme: #0a0a0a;
   --entry: #141414;
   --primary: rgba(255, 255, 255, 0.9);
   --secondary: rgba(255, 255, 255, 0.6);
   --tertiary: #1a1a1a;
-  --content: rgba(255, 255, 255, 0.8);
-  --code-bg: #2e2e33;
-  --code-block-bg: #2e2e33;
+  --content: rgba(255, 255, 255, 0.7);
+  --code-bg: #141414;
+  --code-block-bg: #141414;
   --border: rgba(255, 255, 255, 0.05);
   color-scheme: dark;
 }
@@ -33,12 +32,11 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
-/* Fix .list background (PaperMod uses --code-bg for light, --theme for dark) */
 .list {
   background: #0a0a0a;
 }
 
-/* Green accent for links */
+/* Links - green accent like portfolio */
 a {
   color: #4ade80;
 }
@@ -47,7 +45,7 @@ a:hover {
   color: #22c55e;
 }
 
-/* Header / nav - minimal */
+/* Header / nav */
 .nav {
   background: #0a0a0a;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -55,10 +53,11 @@ a:hover {
 
 .logo a {
   color: rgba(255, 255, 255, 0.9);
-  font-size: 1.4rem;
+  font-size: 1.3rem;
+  font-weight: 600;
 }
 
-/* Post list cards - match portfolio card style */
+/* Post list cards - portfolio style */
 .post-entry {
   background: #141414;
   border: 1px solid rgba(255, 255, 255, 0.05);
@@ -69,9 +68,11 @@ a:hover {
 }
 
 .post-entry:hover {
-  border-color: rgba(74, 222, 128, 0.3);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.post-entry:hover .entry-header h2 {
+  color: #4ade80;
 }
 
 .entry-header h2 {
@@ -79,6 +80,7 @@ a:hover {
   font-size: 1.35rem;
   font-weight: 700;
   line-height: 1.3;
+  transition: color 0.3s ease;
 }
 
 .entry-content {
@@ -91,40 +93,43 @@ a:hover {
   font-size: 0.8rem;
 }
 
-/* Tags - green pills like portfolio */
+/* Tags - green-to-blue gradient like portfolio */
 .post-tags a,
 .terms-tags a {
-  background: rgba(74, 222, 128, 0.1);
+  background: linear-gradient(to right, rgba(34, 197, 94, 0.1), rgba(59, 130, 246, 0.1));
   color: #4ade80;
-  border: 1px solid rgba(74, 222, 128, 0.2);
-  border-radius: 20px;
-  padding: 4px 14px;
+  border: none;
+  border-radius: 9999px;
+  padding: 4px 12px;
   font-size: 0.75rem;
   font-weight: 500;
   transition: all 0.2s;
+  box-shadow: none;
 }
 
 .post-tags a:hover,
 .terms-tags a:hover {
-  background: rgba(74, 222, 128, 0.2);
-  border-color: rgba(74, 222, 128, 0.4);
+  background: linear-gradient(to right, rgba(34, 197, 94, 0.2), rgba(59, 130, 246, 0.2));
+  color: #4ade80;
 }
 
 /* Single post page */
 .post-content {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.7);
   line-height: 1.8;
 }
 
 .post-content h2 {
-  color: rgba(255, 255, 255, 0.95);
+  color: white;
+  font-weight: 700;
   margin-top: 2.5rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .post-content h3 {
-  color: rgba(255, 255, 255, 0.9);
+  color: white;
+  font-weight: 700;
 }
 
 .post-content strong {
@@ -138,12 +143,18 @@ a:hover {
   border-radius: 0 8px 8px 0;
 }
 
+/* Code blocks - portfolio style: #141414 bg, green text, white/10 border */
 .post-content code {
-  background: #2e2e33;
+  background: #141414;
   color: #4ade80;
   padding: 2px 6px;
   border-radius: 4px;
   font-size: 0.85em;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.post-content pre code {
+  border: none;
 }
 
 .post-content table {
@@ -170,12 +181,37 @@ a:hover {
   background: rgba(74, 222, 128, 0.03);
 }
 
+/* Post content links */
+.post-content a {
+  color: #4ade80;
+  box-shadow: 0 1px 0 rgba(74, 222, 128, 0.3);
+}
+
+.post-content a:hover {
+  color: #22c55e;
+  box-shadow: 0 1px 0 #22c55e;
+}
+
+/* Post page separator */
+.post-content hr {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Post title */
+.post-title {
+  color: white;
+}
+
 /* TOC */
 .toc {
   background: #141414;
   border: 1px solid rgba(255, 255, 255, 0.05);
   border-radius: 12px;
   padding: 16px 20px;
+}
+
+[data-theme="dark"] .toc {
+  background: #141414;
 }
 
 .toc a {
@@ -212,21 +248,6 @@ a:hover {
   margin-top: 8px;
 }
 
-@media (max-width: 768px) {
-  .first-entry {
-    padding: 16px 18px;
-    min-height: auto;
-  }
-
-  .first-entry .entry-header h1 {
-    font-size: 1.2rem;
-  }
-
-  .first-entry .entry-content {
-    font-size: 0.8rem;
-  }
-}
-
 /* Pagination */
 .pagination a,
 .pagination span {
@@ -242,7 +263,7 @@ a:hover {
   color: #4ade80;
 }
 
-/* Footer - subtle, not green */
+/* Footer - subtle */
 .footer {
   background: #0a0a0a;
   color: rgba(255, 255, 255, 0.3);
@@ -277,42 +298,6 @@ a:hover {
   color: #4ade80;
 }
 
-/* Share buttons */
-.share-buttons {
-  background: #141414;
-  border: 1px solid rgba(255, 255, 255, 0.05);
-  border-radius: 12px;
-}
-
-.share-buttons a {
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.share-buttons a:hover {
-  color: #4ade80;
-}
-
-/* Post content links - green with underline */
-.post-content a {
-  color: #4ade80;
-  box-shadow: 0 1px 0 rgba(74, 222, 128, 0.3);
-}
-
-.post-content a:hover {
-  color: #22c55e;
-  box-shadow: 0 1px 0 #22c55e;
-}
-
-/* Post page separator */
-.post-content hr {
-  background: rgba(255, 255, 255, 0.08);
-}
-
-/* Post title */
-.post-title {
-  color: rgba(255, 255, 255, 0.95);
-}
-
 /* Post nav links (prev/next) */
 .paginav {
   background: #141414;
@@ -329,7 +314,6 @@ a:hover {
 
 .paginav a:hover {
   background: #1a1a1a;
-  border-color: rgba(74, 222, 128, 0.3);
 }
 
 .paginav .title {
@@ -360,6 +344,19 @@ a:hover {
 
 /* Responsive */
 @media (max-width: 768px) {
+  .first-entry {
+    padding: 16px 18px;
+    min-height: auto;
+  }
+
+  .first-entry .entry-header h1 {
+    font-size: 1.2rem;
+  }
+
+  .first-entry .entry-content {
+    font-size: 0.8rem;
+  }
+
   .post-entry {
     padding: 18px;
     border-radius: 12px;
