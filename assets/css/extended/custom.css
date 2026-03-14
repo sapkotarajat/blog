@@ -1,4 +1,13 @@
-/* Match sapkotarajat.com.np portfolio: #0a0a0a bg, #141414 cards, green-blue gradient accents */
+/* Exact match: sapkotarajat.com.np portfolio
+   --background: #0a0a0a
+   --background-surface: #141414
+   --background-elevated: #1a1a1a
+   --accent: #22c55e (green-500)
+   --accent-secondary: #3b82f6 (blue-500)
+   --accent-gradient: linear-gradient(135deg, #22c55e, #3b82f6)
+   Text: white with opacity 40-80%
+   Borders: white/5 default, white/10 hover
+*/
 
 :root {
   --theme: #0a0a0a;
@@ -36,19 +45,21 @@ body {
   background: #0a0a0a;
 }
 
-/* Links - green accent like portfolio */
+/* Links - green-500 accent */
 a {
-  color: #4ade80;
-}
-
-a:hover {
   color: #22c55e;
 }
 
-/* Header / nav */
+a:hover {
+  color: #4ade80;
+}
+
+/* Header / nav - glass effect like portfolio */
 .nav {
-  background: #0a0a0a;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  background: rgba(20, 20, 20, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .logo a {
@@ -57,7 +68,7 @@ a:hover {
   font-weight: 600;
 }
 
-/* Post list cards - portfolio style */
+/* Post list cards */
 .post-entry {
   background: #141414;
   border: 1px solid rgba(255, 255, 255, 0.05);
@@ -76,7 +87,7 @@ a:hover {
 }
 
 .entry-header h2 {
-  color: rgba(255, 255, 255, 0.9);
+  color: white;
   font-size: 1.35rem;
   font-weight: 700;
   line-height: 1.3;
@@ -84,7 +95,7 @@ a:hover {
 }
 
 .entry-content {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.6);
   font-size: 0.9rem;
 }
 
@@ -93,7 +104,7 @@ a:hover {
   font-size: 0.8rem;
 }
 
-/* Tags - green-to-blue gradient like portfolio */
+/* Tags - green-to-blue gradient (from-green-500/10 to-blue-500/10) */
 .post-tags a,
 .terms-tags a {
   background: linear-gradient(to right, rgba(34, 197, 94, 0.1), rgba(59, 130, 246, 0.1));
@@ -110,10 +121,9 @@ a:hover {
 .post-tags a:hover,
 .terms-tags a:hover {
   background: linear-gradient(to right, rgba(34, 197, 94, 0.2), rgba(59, 130, 246, 0.2));
-  color: #4ade80;
 }
 
-/* Single post page */
+/* Single post page - text-white/70 */
 .post-content {
   color: rgba(255, 255, 255, 0.7);
   line-height: 1.8;
@@ -136,14 +146,15 @@ a:hover {
   color: rgba(255, 255, 255, 0.95);
 }
 
+/* Blockquote - green-500 border */
 .post-content blockquote {
-  border-left: 3px solid #4ade80;
-  background: rgba(74, 222, 128, 0.05);
+  border-left: 3px solid #22c55e;
+  background: rgba(34, 197, 94, 0.05);
   padding: 12px 20px;
   border-radius: 0 8px 8px 0;
 }
 
-/* Code blocks - portfolio style: #141414 bg, green text, white/10 border */
+/* Code - #141414 bg, green-400 text, white/10 border */
 .post-content code {
   background: #141414;
   color: #4ade80;
@@ -157,6 +168,7 @@ a:hover {
   border: none;
 }
 
+/* Tables */
 .post-content table {
   border-collapse: collapse;
   width: 100%;
@@ -168,7 +180,7 @@ a:hover {
   color: rgba(255, 255, 255, 0.9);
   padding: 12px 16px;
   text-align: left;
-  border-bottom: 2px solid rgba(74, 222, 128, 0.3);
+  border-bottom: 2px solid #22c55e;
 }
 
 .post-content table td {
@@ -178,18 +190,18 @@ a:hover {
 }
 
 .post-content table tr:hover td {
-  background: rgba(74, 222, 128, 0.03);
+  background: rgba(34, 197, 94, 0.03);
 }
 
 /* Post content links */
 .post-content a {
-  color: #4ade80;
-  box-shadow: 0 1px 0 rgba(74, 222, 128, 0.3);
+  color: #22c55e;
+  box-shadow: 0 1px 0 rgba(34, 197, 94, 0.3);
 }
 
 .post-content a:hover {
-  color: #22c55e;
-  box-shadow: 0 1px 0 #22c55e;
+  color: #4ade80;
+  box-shadow: 0 1px 0 #4ade80;
 }
 
 /* Post page separator */
@@ -219,12 +231,12 @@ a:hover {
 }
 
 .toc a:hover {
-  color: #4ade80;
+  color: #22c55e;
 }
 
 /* Home info - compact hero */
 .first-entry {
-  background: linear-gradient(135deg, #141414, #1a1a1a);
+  background: #141414;
   border: 1px solid rgba(255, 255, 255, 0.05);
   border-radius: 16px;
   padding: 20px 24px;
@@ -233,12 +245,12 @@ a:hover {
 }
 
 .first-entry .entry-header h1 {
-  color: rgba(255, 255, 255, 0.95);
+  color: white;
   font-size: 1.4rem;
 }
 
 .first-entry .entry-content {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.6);
   font-size: 0.85rem;
   line-height: 1.5;
   margin: 6px 0;
@@ -258,16 +270,15 @@ a:hover {
 }
 
 .pagination a:hover {
-  background: rgba(74, 222, 128, 0.1);
-  border-color: rgba(74, 222, 128, 0.3);
-  color: #4ade80;
+  border-color: rgba(34, 197, 94, 0.3);
+  color: #22c55e;
 }
 
-/* Footer - subtle */
+/* Footer - border-white/10 like portfolio */
 .footer {
   background: #0a0a0a;
-  color: rgba(255, 255, 255, 0.3);
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  color: rgba(255, 255, 255, 0.4);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .footer a {
@@ -280,13 +291,13 @@ a:hover {
   border-bottom-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Social icons */
+/* Social icons - bg-white/5, text-white/60 like portfolio */
 .social-icons a {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.6);
 }
 
 .social-icons a:hover {
-  color: #4ade80;
+  color: #22c55e;
 }
 
 /* Breadcrumbs */
@@ -295,7 +306,7 @@ a:hover {
 }
 
 .breadcrumbs a:hover {
-  color: #4ade80;
+  color: #22c55e;
 }
 
 /* Post nav links (prev/next) */
@@ -321,7 +332,7 @@ a:hover {
 }
 
 .paginav span:hover:not(.title) {
-  color: #4ade80;
+  color: #22c55e;
 }
 
 /* Reading time / meta */
@@ -329,12 +340,17 @@ a:hover {
   color: rgba(255, 255, 255, 0.4);
 }
 
-/* Back to top button */
+/* Back to top - gradient like portfolio */
 .top-link {
-  background: #1a1a1a;
+  background: linear-gradient(135deg, #22c55e, #3b82f6);
+  color: white;
 }
 
-/* YouTube embed styling */
+.top-link:hover {
+  color: white;
+}
+
+/* YouTube embed */
 .youtube-embed {
   border-radius: 12px;
   overflow: hidden;
