@@ -5,6 +5,9 @@ theme = "PaperMod"
 paginate = 10
 buildFuture = true
 
+# Google Analytics — replace with your GA4 Measurement ID
+googleAnalytics = ""
+
 [params]
   env = "production"
   description = "AI tools, tech tutorials, motivation, finance tips, history facts, and nature wonders"
@@ -12,9 +15,9 @@ buildFuture = true
   defaultTheme = "dark"
   disableThemeToggle = true
   ShowReadingTime = true
-  ShowShareButtons = false
+  ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = false
+  ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
@@ -26,8 +29,8 @@ buildFuture = true
   googleAdsenseId = ""
 
   [params.homeInfoParams]
-    Title = "Blog"
-    Content = "AI tools, tech tutorials, personal finance, motivation, history, and nature."
+    Title = "Rajat Sapkota's Blog"
+    Content = "AI tools, tech tutorials, personal finance, motivation, history, and nature. New articles daily."
 
   [[params.socialIcons]]
     name = "youtube"
@@ -44,6 +47,32 @@ buildFuture = true
   [[params.socialIcons]]
     name = "instagram"
     url = "https://www.instagram.com/sapkotarajat"
+
+# Navigation menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 2
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
 
 [taxonomies]
   category = "categories"

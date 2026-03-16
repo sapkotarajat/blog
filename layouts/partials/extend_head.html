@@ -1,6 +1,17 @@
 {{ if site.Params.googleAdsenseId }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.googleAdsenseId }}" crossorigin="anonymous"></script>
 {{ end }}
+{{ if site.Config.Services.GoogleAnalytics.ID }}
+<!-- Google Analytics GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.Config.Services.GoogleAnalytics.ID }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}');
+</script>
+{{ end }}
 <!-- SEO extras -->
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{{ .Permalink }}">
+<meta name="author" content="Rajat Sapkota">
