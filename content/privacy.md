@@ -88,7 +88,7 @@ Depending on your jurisdiction, you may have the right to:
 - Object to or restrict processing of your data
 - Withdraw consent at any time
 
-To exercise these rights, contact us at **rajat@sapkotarajat.com.np**.
+To exercise these rights, contact us at **sapkotarajat59@gmail.com**.
 
 ## Changes to This Policy
 
@@ -98,5 +98,5 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy, contact us at:
 
-**Email:** rajat@sapkotarajat.com.np
+**Email:** sapkotarajat59@gmail.com
 **Website:** [blog.sapkotarajat.com.np](https://blog.sapkotarajat.com.np)

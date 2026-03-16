@@ -14,7 +14,7 @@ Have a question, business inquiry, or just want to say hi? I'd love to hear from
 
 For business inquiries, collaborations, or sponsorship opportunities:
 
-**rajat@sapkotarajat.com.np**
+**sapkotarajat59@gmail.com**
 
 ### Social Media
 
