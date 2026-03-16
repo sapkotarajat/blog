@@ -6,7 +6,7 @@ paginate = 10
 buildFuture = true
 
 # Google Analytics — replace with your GA4 Measurement ID
-googleAnalytics = ""
+googleAnalytics = "G-GT75JDWDPV"
 
 [params]
   env = "production"
