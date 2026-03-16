@@ -32,8 +32,9 @@ I believe knowledge should be accessible to everyone. Every article here is writ
 
 ### Other Channels
 
-- [MindForge Daily](https://youtube.com/@mindforgedaily) — Motivation & finance
-- [Wonder Archive](https://youtube.com/@wonderarchive) — History & nature
+- [Curious Kids](https://www.youtube.com/@CuriousKidsYTC) — Kids educational content
+- [MindForge Daily](https://www.youtube.com/@mindforgedailywr) — Motivation & finance
+- [Wonder Archive](https://www.youtube.com/@WonderArchive-p2b) — History & nature
 - [Still Hour](https://youtube.com/@StillHour-v2x) — Ambient meditation music
 
 Have a question or want to collaborate? Reach out via the [contact page](/contact/).
