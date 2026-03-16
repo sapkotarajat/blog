@@ -23,10 +23,11 @@ googleAnalytics = "G-GT75JDWDPV"
   TocOpen = false
   comments = false
 
+  # Google AdSense
+  googleAdsenseId = "ca-pub-7566579332653976"
+
   [params.footer]
     hideCopyright = false
-  # Google AdSense - replace with your publisher ID after approval
-  googleAdsenseId = "ca-pub-7566579332653976"
 
   [params.homeInfoParams]
     Title = "Rajat Sapkota's Blog"
