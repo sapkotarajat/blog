@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "do8T0XYnbdw" >}}
+
+
 # Unlock Your Browser's Potential: Build Your Own Chrome Extension in 30 Minutes (Even if You're New to Coding!)
 
 Ever wished your web browser could do just *that one thing* a little better? Maybe you want a quick way to save articles, a personalized dark mode for specific sites, or a tool to boost your productivity. The good news is, you don't have to wait for someone else to build it. You can create it yourself! In this comprehensive guide, we're going to demystify the process and show you how to build your very own **Chrome extension** from scratch in under 30 minutes. Yes, even if you're a complete beginner to web development, this step-by-step tutorial will empower you to customize your browsing experience and unleash your creativity. Get ready to transform your ideas into powerful browser tools!

@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "VoMm2gaE448" >}}
+
+
 ## Unlock Your Dream Tech Job: Build a High-Impact Hiring Portfolio Website in Record Time
 
 Are you caught in the endless cycle of applying for tech jobs, meticulously crafting cover letters, and submitting resumes into the digital abyss, only to be met with silence? It's a frustrating experience many aspiring and seasoned professionals face. In today's competitive tech landscape, a standard resume often isn't enough to capture the attention of busy hiring managers and recruiters. You need something more dynamic, more compelling, something that truly *shows* what you can do. The solution? A powerful and professional **hiring portfolio website**.

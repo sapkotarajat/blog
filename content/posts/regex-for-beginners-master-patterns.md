@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "DD6gr3uu-Yo" >}}
+
+
 # Unlock Text's Secrets: Your Ultimate Beginner's Guide to Mastering Regular Expressions (Regex) for Code & Data
 
 Are you tired of grappling with messy strings, struggling to extract specific information, or needing to validate user input with frustratingly complex `if/else` statements? If you've ever felt overwhelmed by the sheer volume of text data in your projects, then you're about to discover a superpower: **regular expressions**, or **regex**. Often intimidating at first glance, **regex** is an incredibly powerful tool that can revolutionize how you handle text manipulation, making you a more efficient and effective programmer. This comprehensive guide will demystify regular expressions, taking you from a complete beginner to confidently understanding and applying **regex patterns** in your own projects, whether you're working on web development, data analysis, or any other programming task. Get ready to stop being confused and start mastering the art of pattern matching!
