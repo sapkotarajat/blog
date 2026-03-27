@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "KOwOLrKkAXc" >}}
+
+
 # Demystifying AI: Your Step-by-Step Guide to Building Your First Intelligent App
 
 Have you ever marveled at the intelligent features in your favorite apps – the way photos are categorized, spam emails are filtered, or suggestions pop up based on your behavior? These aren't magic; they're the power of Artificial Intelligence (AI) at work. The good news? Building an **AI app** is no longer the exclusive domain of data scientists and seasoned developers. With the right tools and a little guidance, *you* can embark on your journey into **AI development** and create your very own intelligent application, often in less time than you think. Forget complex coding and daunting algorithms; this comprehensive guide will walk you through the process, empowering you to build your first AI app with ease, just like the pros.

@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "QQcYxEND1VU" >}}
+
+
 ## Unlocking Your True Worth: The Definitive Guide to Crushing Your Developer Salary Negotiation in 2024
 
 The moment you receive a job offer, your heart might race with excitement. But for many developers, this is quickly followed by a pang of anxiety: the dreaded **salary negotiation**. It’s a pivotal moment, a defining discussion that can significantly impact your financial future, career trajectory, and overall job satisfaction. Yet, too often, we developers, with our focus on elegant code and robust systems, shy away from this critical conversation. We leave money on the table, settle for less, or even worse, avoid the negotiation entirely.
