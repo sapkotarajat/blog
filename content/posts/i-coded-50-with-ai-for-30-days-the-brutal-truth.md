@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "ccq3MWr4fLk" >}}
+
+
 # Beyond the Hype: My 30-Day AI Coding Experiment Uncovered the Brutal Truth About Developer Productivity
 
 The promise was intoxicating: a **coding revolution** where artificial intelligence would supercharge our output, automating the mundane and freeing us for true innovation. We’ve all seen the headlines – AI tools like [GitHub Copilot](https://github.com/features/copilot) and [ChatGPT](https://chat.openai.com) touted to write 80% of your code, multiplying developer productivity by a factor of ten. Viral stories circulate about solo founders shipping complex SaaS applications in mere days, crediting AI for their alleged $30,000 first-month revenue. These audacious claims ignited a firestorm of excitement, but also a simmering undercurrent of anxiety among developers. Could it truly be that easy? And what would it mean for our craft?
