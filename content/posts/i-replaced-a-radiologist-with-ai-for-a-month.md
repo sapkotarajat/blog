@@ -9,6 +9,9 @@ ShowToc: true
 TocOpen: false
 ---
 
+{{< youtube "8vos5k9wrPI" >}}
+
+
 ## The AI Doctor Is In: My Month-Long Experiment Replacing a Radiologist with Artificial Intelligence – Here's What Happened
 
 Imagine a future where your doctor isn't just human, but a sophisticated algorithm processing medical images with superhuman speed and accuracy. This isn't science fiction anymore. **Artificial Intelligence in healthcare** is rapidly evolving, and to truly grasp its current capabilities and future potential, I embarked on a groundbreaking experiment: I essentially replaced a human radiologist with an AI for an entire month. The goal was simple yet profound: understand how AI would perform in real-world medical diagnoses, what its strengths and weaknesses are, and what this radical shift means for the future of medicine, for healthcare professionals, and most importantly, for *you*.
