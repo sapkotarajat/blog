@@ -1,0 +1,59 @@
+<div class="grid-backdrop" aria-hidden="true">
+  <canvas class="gb-canvas" id="gb-canvas"></canvas>
+  <div class="gb-vignette"></div>
+</div>
+<script>
+(function () {
+  var canvas = document.getElementById('gb-canvas'); if (!canvas) return;
+  var ctx = canvas.getContext('2d'); if (!ctx) return;
+  var w, h, raf, pts = [], dpr = Math.min(window.devicePixelRatio || 1, 2);
+  var mouse = { x: -9999, y: -9999 }, LINK = 168, MLINK = 190;
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function resize() {
+    w = window.innerWidth; h = window.innerHeight;
+    canvas.width = Math.floor(w * dpr); canvas.height = Math.floor(h * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    var count = Math.min(170, Math.max(60, Math.floor((w * h) / 12500)));
+    pts = [];
+    for (var i = 0; i < count; i++) {
+      var z = 0.35 + Math.random() * 0.65;
+      pts.push({ x: Math.random() * w, y: Math.random() * h, vx: (Math.random() - 0.5) * 0.2 * z, vy: (Math.random() - 0.5) * 0.2 * z, z: z });
+    }
+  }
+  function frame() {
+    ctx.clearRect(0, 0, w, h);
+    if (!reduce) {
+      for (var i = 0; i < pts.length; i++) {
+        var p = pts[i]; p.x += p.vx; p.y += p.vy;
+        if (p.x < -30) p.x = w + 30; else if (p.x > w + 30) p.x = -30;
+        if (p.y < -30) p.y = h + 30; else if (p.y > h + 30) p.y = -30;
+      }
+    }
+    for (var i = 0; i < pts.length; i++) {
+      var a = pts[i];
+      for (var j = i + 1; j < pts.length; j++) {
+        var b = pts[j], dx = a.x - b.x, dy = a.y - b.y, d = Math.hypot(dx, dy);
+        if (d < LINK) {
+          var al = (1 - d / LINK) * 0.32 * Math.min(a.z, b.z);
+          ctx.strokeStyle = 'rgba(255,255,255,' + al.toFixed(3) + ')'; ctx.lineWidth = 0.6;
+          ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+        }
+      }
+      if (!reduce) {
+        var mdx = a.x - mouse.x, mdy = a.y - mouse.y, md = Math.hypot(mdx, mdy);
+        if (md < MLINK) {
+          var al2 = (1 - md / MLINK) * 0.5;
+          ctx.strokeStyle = 'rgba(255,255,255,' + al2.toFixed(3) + ')'; ctx.lineWidth = 0.7;
+          ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(mouse.x, mouse.y); ctx.stroke();
+        }
+      }
+      ctx.fillStyle = 'rgba(255,255,255,' + (0.32 + a.z * 0.5).toFixed(3) + ')';
+      ctx.beginPath(); ctx.arc(a.x, a.y, a.z * 1.7, 0, Math.PI * 2); ctx.fill();
+    }
+    if (!reduce) raf = requestAnimationFrame(frame);
+  }
+  resize(); frame();
+  window.addEventListener('resize', function () { resize(); if (reduce) frame(); });
+  if (!reduce) window.addEventListener('mousemove', function (e) { mouse.x = e.clientX; mouse.y = e.clientY; });
+})();
+</script>
