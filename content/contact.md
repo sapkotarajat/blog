@@ -23,7 +23,7 @@ You can also reach me through any of these platforms:
 - [YouTube](https://youtube.com/@rajatsapkota)
 - [TikTok](https://tiktok.com/@sapkotarajat)
 - [Facebook](https://facebook.com/sapkotarajat/)
-- [Instagram](https://instagram.com/sapkotarajat)
+- [Instagram](https://www.instagram.com/rajatsapkota/)
 
 ### Response Time
 

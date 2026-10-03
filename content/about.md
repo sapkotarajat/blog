@@ -28,7 +28,7 @@ I believe knowledge should be accessible to everyone. Every article here is writ
 - [YouTube](https://youtube.com/@rajatsapkota) — Video versions of our content
 - [TikTok](https://tiktok.com/@sapkotarajat) — Quick tips and highlights
 - [Facebook](https://facebook.com/sapkotarajat/)
-- [Instagram](https://instagram.com/sapkotarajat)
+- [Instagram](https://www.instagram.com/rajatsapkota/)
 
 ### Other Channels
 
