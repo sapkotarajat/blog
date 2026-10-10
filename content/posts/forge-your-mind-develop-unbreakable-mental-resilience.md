@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "forge-your-mind-develop-unbreakable-mental-resilience"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Forge an Unbreakable Mind: Your Blueprint for Cultivating True Mental Resilience

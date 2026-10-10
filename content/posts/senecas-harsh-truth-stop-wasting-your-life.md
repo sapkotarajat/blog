@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "senecas-harsh-truth-stop-wasting-your-life"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secrets to Mastering Your Time: Stop Wasting Your Life and Reclaim Your Destiny

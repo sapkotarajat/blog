@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-wasting-your-life-senecas-timeless-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Reclaim Your Most Precious Asset: How Seneca's Timeless Wisdom Will End Your Time-Wasting Habits For Good

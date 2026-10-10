@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "mindset", "selfimprovement", "noexcuses", "dav
 slug: "stop-excuses-the-stoic-mindset-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Break Free from Excuses: How the Stoic Mindset Can Transform Your Life Today**

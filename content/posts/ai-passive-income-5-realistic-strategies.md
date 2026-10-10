@@ -7,6 +7,7 @@ tags: ["passive income", "AI", "investing", "financial freedom"]
 slug: "ai-passive-income-5-realistic-strategies"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "OXQo3OWflq4" >}}

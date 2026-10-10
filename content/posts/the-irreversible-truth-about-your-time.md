@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "the-irreversible-truth-about-your-time"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Reclaim Your Time, Reclaim Your Life: The Irreversible Truth About Your Most Precious Asset

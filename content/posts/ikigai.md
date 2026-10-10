@@ -7,6 +7,7 @@ tags: ["motivation", "ikigai", "productivity", "laziness", "Japanese philosophy"
 slug: "ikigai"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Inner Drive: The Ultimate Guide to Ikigai – Japan's Ancient Secret for Beating Laziness, Finding Purpose, and Living an Inspired Life

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "sleep", "produc
 slug: "unleash-your-genius-the-sleep-strategy"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Unparalleled Performance: The Power of Sleep

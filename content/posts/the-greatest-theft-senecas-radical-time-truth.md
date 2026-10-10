@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "the-greatest-theft-senecas-radical-time-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Time: How Seneca's Radical Truth Can Transform Your Life

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "resilience", "a
 slug: "embrace-the-fire-how-pain-forges-your-true-strength"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Transformative Power of Pain: How Adversity Forges Unshakeable Mental Fortitude

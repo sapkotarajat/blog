@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "gold investing", "preciou
 slug: "gold-your-portfolios-secret-weapon"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Gold in Your Portfolio: Your Ultimate Guide to Protecting Wealth from Inflation and Market Turmoil

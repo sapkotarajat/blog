@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "budgeting", "50/30/20", "investing"]
 slug: "503020-rule-explained-simply"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Take Control of Your Finances with the Powerful 50/30/20 Rule

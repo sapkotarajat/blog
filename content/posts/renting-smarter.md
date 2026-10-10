@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting", "budgeting", "investing"]
 slug: "renting-smarter"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond "Dead Money": Why Renting Smarter Is Your Path to Financial Freedom and Building Wealth

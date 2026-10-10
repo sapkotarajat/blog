@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "SelfImprovement", "Mindset", "Anxiety", "Contr
 slug: "youre-losing-peace-the-control-trap-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Stop Trying to Control Everything: The Stoic Path to Reclaiming Your Peace and Reducing Anxiety

@@ -10,7 +10,7 @@ googleAnalytics = "G-GT75JDWDPV"
 
 [params]
   env = "production"
-  description = "AI tools, tech tutorials, motivation, finance tips, history facts, and nature wonders"
+  description = "Building with AI, from Nepal — practical AI, automation and shipping software, by Rajat Sapkota."
   author = "Rajat Sapkota"
   defaultTheme = "dark"
   disableThemeToggle = true
@@ -30,24 +30,32 @@ googleAnalytics = "G-GT75JDWDPV"
     hideCopyright = false
 
   [params.homeInfoParams]
-    Title = "Rajat Sapkota's Blog"
-    Content = "AI tools, tech tutorials, personal finance, motivation, history, and nature. New articles daily."
+    Title = "Building with AI, from Nepal"
+    Content = "I'm Rajat — a full-stack engineer from Panauti, Nepal. I write about practical AI, automation and shipping software, including the AI content system I built and run. Real numbers, including what broke."
 
   [[params.socialIcons]]
     name = "youtube"
-    url = "https://www.youtube.com/@rajatsapkota"
+    url = "https://www.youtube.com/@sapkotarajatdev"
 
   [[params.socialIcons]]
     name = "tiktok"
-    url = "https://www.tiktok.com/@sapkotarajat"
+    url = "https://www.tiktok.com/@sapkotarajat.dev"
 
   [[params.socialIcons]]
     name = "facebook"
-    url = "https://www.facebook.com/sapkotarajat/"
+    url = "https://www.facebook.com/profile.php?id=1386746304523468"
 
   [[params.socialIcons]]
     name = "instagram"
-    url = "https://www.instagram.com/rajatsapkota/"
+    url = "https://www.instagram.com/sapkotarajat.dev/"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sapkotarajat"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/SapkotaRajat"
 
 # Navigation menu
 [[menu.main]]

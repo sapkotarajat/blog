@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-wasting-your-life-senecas-secret"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleash the Power of Your Time: How to Stop Wasting Your Life with Seneca's Secret

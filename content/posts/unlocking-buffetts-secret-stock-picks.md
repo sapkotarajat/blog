@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "warren buffe
 slug: "unlocking-buffetts-secret-stock-picks"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Master Warren Buffett's Blueprint: Unlocking the Secrets to Winning Stock Picks and Lasting Wealth

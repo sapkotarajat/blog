@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "senecas-harsh-truth-why-your-life-feels-short"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Reclaiming Your Most Precious Asset: Time

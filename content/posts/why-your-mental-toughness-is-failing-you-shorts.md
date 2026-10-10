@@ -7,6 +7,7 @@ tags: ["mental toughness", "stoicism", "motivation", "self improvement", "mindse
 slug: "why-your-mental-toughness-is-failing-you-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Brute Force: Why Your "Mental Toughness" Might Be Secretly Undermining Your True Potential

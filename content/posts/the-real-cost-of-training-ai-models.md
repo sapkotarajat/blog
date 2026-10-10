@@ -7,6 +7,7 @@ tags: ["AI development", "machine learning", "data science"]
 slug: "the-real-cost-of-training-ai-models"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

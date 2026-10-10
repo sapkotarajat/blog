@@ -7,6 +7,7 @@ tags: ["portfolio website", "tech career", "web development"]
 slug: "build-a-portfolio-website-to-boost-your-tech-career"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Your Tech Career: Build an Irresistible Portfolio Website That Gets You Hired

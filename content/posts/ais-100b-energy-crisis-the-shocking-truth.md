@@ -9,6 +9,7 @@ tags: ["AI energy efficiency", "AI breakthrough 2026", "AI sustainability", "neu
 slug: "ais-100b-energy-crisis-the-shocking-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The AI Energy Crisis: A $100 Billion Problem That's Only Getting Worse

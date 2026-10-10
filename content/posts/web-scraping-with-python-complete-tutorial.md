@@ -7,6 +7,7 @@ tags: ["web scraping", "python", "data extraction"]
 slug: "web-scraping-with-python-complete-tutorial"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

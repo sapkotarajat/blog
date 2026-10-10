@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "dave ramsey"
 slug: "why-dave-ramseys-plan-works-for-millions"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Ditch Debt, Build Wealth: Why Dave Ramsey's Revolutionary Financial Plan Still Works for Millions

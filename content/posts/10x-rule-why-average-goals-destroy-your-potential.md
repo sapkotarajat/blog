@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "10x rule", "goa
 slug: "10x-rule-why-average-goals-destroy-your-potential"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Your True Potential: Why the 10X Rule is the Key to Unleashing Your Inner Strength

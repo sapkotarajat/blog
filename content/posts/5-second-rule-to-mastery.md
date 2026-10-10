@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "5-second-rule-to-mastery"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of **Motivation** with the 5-Second Rule to Mastery

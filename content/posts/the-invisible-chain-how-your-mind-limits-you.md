@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "cognitive bias"
 slug: "the-invisible-chain-how-your-mind-limits-you"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unshackling Your Mind: The Invisible Chain of Confirmation Bias Holding You Back

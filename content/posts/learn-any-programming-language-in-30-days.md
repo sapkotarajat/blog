@@ -7,6 +7,7 @@ tags: ["programming", "learn to code", "30 days"]
 slug: "learn-any-programming-language-in-30-days"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # From Zero to Coder: Master Any Programming Language in 30 Days (Your Ultimate Accelerated Guide!)

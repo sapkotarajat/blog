@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting vs b
 slug: "why-renting-isnt-always-a-waste-of-money"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Break Free from the Myth: Why Renting Isn't Always a Waste of Money

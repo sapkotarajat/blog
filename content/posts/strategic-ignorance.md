@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "strategic-ignorance"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of **Strategic Ignorance**: How to Focus on What Matters and Achieve Success

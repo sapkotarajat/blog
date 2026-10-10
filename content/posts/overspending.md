@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "overspending", "budgeting", "investing
 slug: "overspending"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Stop the Scroll, Start Saving: Unmasking the Psychology of Overspending and How to Conquer It For Good

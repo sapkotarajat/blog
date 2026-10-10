@@ -7,6 +7,7 @@ tags: ["stoicism", "motivation", "procrastination", "self-sabotage", "epictetus"
 slug: "your-biggest-self-sabotage-habit-exposed-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unmasking Your Stealthiest Saboteur: How Ancient Stoic Wisdom Crushes Procrastination and Unlocks Your Full Potential

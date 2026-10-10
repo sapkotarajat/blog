@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "passive inco
 slug: "the-passive-income-myth-they-dont-want-you-to-know"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The TRUTH About Passive Income: Why the "Set It and Forget It" Dream is a Myth (And How to Build Real Wealth)

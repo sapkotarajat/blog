@@ -7,6 +7,7 @@ tags: ["AI for developers", "senior developers", "artificial intelligence"]
 slug: "senior-developers-ditch-code-for-ai"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Why Senior Developers Are Ditching Code for **Artificial Intelligence (AI)**

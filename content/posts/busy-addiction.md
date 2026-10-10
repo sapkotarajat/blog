@@ -7,6 +7,7 @@ tags: ["motivation", "productivity", "self improvement", "mindset", "stoicism"]
 slug: "busy-addiction"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking Free from the Busy Addiction: How to Achieve a Better Work-Life Balance

@@ -7,6 +7,7 @@ tags: ["AI tools", "productivity hacks", "AI experiment", "ChatGPT vs Claude", "
 slug: "i-tested-5-ai-tools-for-a-month-my-productivity-shocked-me"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "6sXulNnGWqE" >}}

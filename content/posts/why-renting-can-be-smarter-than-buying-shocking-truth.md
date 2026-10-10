@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting vs buying", "homeownership cos
 slug: "why-renting-can-be-smarter-than-buying-shocking-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Is Renting *Really* Throwing Money Away? The Shocking Truth Homeowners Rarely Tell You (And How Renters Can Build Wealth Faster)

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "mind-sharpened"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Sharpen Your Mind: Unlock Peak Mental Clarity and Unwavering Focus with Stoic Solitude

@@ -7,6 +7,7 @@ tags: ["AI coding", "Generative AI", "Copilot vs ChatGPT", "AI developer tools",
 slug: "i-coded-50-with-ai-for-30-days-the-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "ccq3MWr4fLk" >}}

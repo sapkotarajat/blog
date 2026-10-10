@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "focus"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of **Ruthless Focus**: Achieve Your Goals with Stoic Principles

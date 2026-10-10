@@ -7,6 +7,7 @@ tags: ["Discipline", "Motivation", "Stoicism", "SelfImprovement", "Mindset", "Pr
 slug: "disciplines-hidden-secret-its-not-willpower-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Unlock the Real Secret of Discipline: It’s Not About Willpower, It’s About Who You Become**

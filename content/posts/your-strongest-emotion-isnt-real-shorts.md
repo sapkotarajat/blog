@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "EmotionalResilience", "SelfImprovement", "Marc
 slug: "your-strongest-emotion-isnt-real-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 Master Your Mind: Stoicism's Secret to Conquering Emotions and Building Unbreakable Resilience

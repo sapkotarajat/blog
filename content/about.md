@@ -6,35 +6,20 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-## About Rajat Sapkota
+## About me
 
-Hey there! I'm **Rajat Sapkota**, a software developer from Nepal passionate about AI, technology, and building things that actually help people.
+I'm **Rajat Sapkota**, a full-stack engineer and consultant from Panauti, a small historic town in Nepal. I've been
+freelancing since 2023, building and shipping web platforms end to end for clients around the world: architecture and
+databases, Django and React, Docker, CI/CD and servers — and AI integrations inside real products.
 
-This blog is an extension of my [YouTube channel](https://youtube.com/@rajatsapkota), where I create content about:
+This blog is where I write about **building with AI, from Nepal**:
 
-- **AI Tools & Trends** — in-depth reviews, tutorials, and analysis of the latest AI tools that can boost your productivity and career
-- **Tech Tutorials** — practical guides for developers at all levels
-- **Personal Finance** — actionable money tips, investing basics, and wealth-building strategies
-- **Motivation & Self-Improvement** — stoic philosophy, mindset shifts, and daily habits that drive success
-- **History & Did You Know** — fascinating stories and surprising facts from around the world
-- **Nature & Wildlife** — the incredible wonders of the natural world
+- **Practical AI** — what actually helps in real work, and what doesn't
+- **Automation** — the systems I build for myself and for clients
+- **Shipping software** — architecture, deployment and what breaks in production
+- **Building in public** — including Studio, the AI content system I built to run my channels, with real numbers
 
-### Why This Blog?
+I also make short videos on the same topics: [YouTube](https://www.youtube.com/@sapkotarajatdev),
+[Instagram](https://www.instagram.com/sapkotarajat.dev/) and [TikTok](https://www.tiktok.com/@sapkotarajat.dev).
 
-I believe knowledge should be accessible to everyone. Every article here is written to be **informative, actionable, and easy to understand** — whether you're a complete beginner or a seasoned professional.
-
-### Connect With Me
-
-- [YouTube](https://youtube.com/@rajatsapkota) — Video versions of our content
-- [TikTok](https://tiktok.com/@sapkotarajat) — Quick tips and highlights
-- [Facebook](https://facebook.com/sapkotarajat/)
-- [Instagram](https://www.instagram.com/rajatsapkota/)
-
-### Other Channels
-
-- [Curious Kids](https://www.youtube.com/@CuriousKidsYTC) — Kids educational content
-- [MindForge Daily](https://www.youtube.com/@mindforgedailywr) — Motivation & finance
-- [Wonder Archive](https://www.youtube.com/@WonderArchive-p2b) — History & nature
-- [Still Hour](https://youtube.com/@StillHour-v2x) — Ambient meditation music
-
-Have a question or want to collaborate? Reach out via the [contact page](/contact/).
+Want something built? See [sapkotarajat.com.np](https://sapkotarajat.com.np) or [get in touch](/contact/).

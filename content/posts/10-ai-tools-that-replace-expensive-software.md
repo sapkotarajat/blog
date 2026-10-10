@@ -7,6 +7,7 @@ tags: ["AI tools", "software alternatives", "productivity", "tech"]
 slug: "10-ai-tools-that-replace-expensive-software"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

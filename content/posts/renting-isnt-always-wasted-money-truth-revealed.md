@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "rent vs buy", "homeownership myths", "
 slug: "renting-isnt-always-wasted-money-truth-revealed"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Renting Isn't Wasted Money: Why Smart Renters Can Build More Wealth Than Homeowners

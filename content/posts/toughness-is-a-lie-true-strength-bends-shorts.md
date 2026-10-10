@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "mentalstrength", "flexibility", "selfimproveme
 slug: "toughness-is-a-lie-true-strength-bends-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Myth of "Toughness": Why Mental Flexibility, Not Rigid Strength, is Your True Superpower

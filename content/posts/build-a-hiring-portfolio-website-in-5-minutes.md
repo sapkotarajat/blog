@@ -7,6 +7,7 @@ tags: ["portfolio website", "tech", "job search", "career"]
 slug: "build-a-hiring-portfolio-website-in-5-minutes"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "VoMm2gaE448" >}}

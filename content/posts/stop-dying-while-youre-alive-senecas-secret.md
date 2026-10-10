@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-dying-while-youre-alive-senecas-secret"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Reclaim Your Time: The Powerful Secret to Living a Life of Intention and Purpose

@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "Mindset", "SelfImprovement", "MarcusAurelius",
 slug: "unlock-your-mind-stoic-sanity-in-chaos-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Stoic Sanity in the Modern Storm: Unlock Unshakeable Inner Peace and Master Your Mind

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "escape-the-busy-trap-reclaim-your-focus"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Escape the Busy Trap: How Ancient Stoic Wisdom Can Transform Your Overwhelmed Life

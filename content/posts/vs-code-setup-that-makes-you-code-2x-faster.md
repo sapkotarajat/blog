@@ -7,6 +7,7 @@ tags: ["VS Code", "Productivity", "Coding"]
 slug: "vs-code-setup-that-makes-you-code-2x-faster"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Hyper-Speed Coding: Your Ultimate VS Code Setup for 2x Faster Development

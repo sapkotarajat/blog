@@ -7,6 +7,7 @@ tags: ["technical documentation", "productivity", "tech skills"]
 slug: "mastering-technical-docs-a-5-minute-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Tech Mastery: How to Read Technical Documentation 10x Faster and Boost Your Productivity

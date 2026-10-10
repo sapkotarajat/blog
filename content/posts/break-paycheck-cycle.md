@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "budgeting", "saving", "investing"]
 slug: "break-paycheck-cycle"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **How to Break the Paycheck‑to‑Paycheck Cycle and Build Real Wealth**  

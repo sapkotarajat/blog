@@ -7,6 +7,7 @@ tags: ["CI-CD", "Continuous Integration", "Continuous Deployment", "DevOps", "Au
 slug: "ci-cd-pipeline-from-scratch-a-step-by-step-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # From Zero to Hero: Your Ultimate Step-by-Step Guide to Building a CI-CD Pipeline That Actually Works

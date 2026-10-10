@@ -7,6 +7,7 @@ tags: ["self love", "personal growth", "Stoic philosophy", "motivation", "self d
 slug: "too-much-selflove-kills-growth-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Is Your 'Self-Love' Secretly Killing Your Potential? The Surprising Truth About Over-Admiration and How Stoicism Builds Real Growth

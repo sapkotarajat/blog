@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting", "h
 slug: "renting-why-its-not-always-dead-money"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Renting Isn't "Dead Money": How to Build Serious Wealth and Financial Freedom Without Owning a Home

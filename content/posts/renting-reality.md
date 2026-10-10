@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting", "real estate", "investing"]
 slug: "renting-reality"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Don't Fall for the Hype: Why Renting Isn't "Wasted Money" — It's a Savvy Financial Move

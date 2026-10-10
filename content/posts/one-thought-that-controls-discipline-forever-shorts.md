@@ -7,6 +7,7 @@ tags: ["discipline", "stoicism", "motivation", "mindset", "self-improvement", "s
 slug: "one-thought-that-controls-discipline-forever-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Master Your Mind, Master Your Life: The Stoic Secret to Unbreakable Discipline

@@ -7,6 +7,7 @@ tags: ["AI", "Website Flipping", "Wealth Creation"]
 slug: "flip-websites-with-ai-for-profit-a-step-by-step-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "MQukUkm84KQ" >}}

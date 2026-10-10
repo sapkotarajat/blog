@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "finish-what-you-start-reclaim-your-mind"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Power of Completion: Mastering the Zeigarnik Effect for a Clearer Mind

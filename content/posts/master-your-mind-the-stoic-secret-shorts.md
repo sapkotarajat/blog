@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "MentalFlexibility", "SelfImprovement", "Marcus
 slug: "master-your-mind-the-stoic-secret-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Unstoppable Resilience: Master Your Mind with Ancient Stoic Secrets

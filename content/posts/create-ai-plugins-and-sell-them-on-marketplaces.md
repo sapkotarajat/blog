@@ -7,6 +7,7 @@ tags: ["AI plugins", "marketplaces", "selling", "revenue", "efficiency"]
 slug: "create-ai-plugins-and-sell-them-on-marketplaces"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "NS9LTeeGOpc" >}}

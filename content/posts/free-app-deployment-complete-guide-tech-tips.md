@@ -7,6 +7,7 @@ tags: ["app deployment", "free app hosting", "tech tips"]
 slug: "free-app-deployment-complete-guide-tech-tips"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Ultimate Guide to Free App Deployment: Launch Your Projects Without Breaking the Bank

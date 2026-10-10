@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting", "h
 slug: "renting-not-throwing-money-away-the-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Renting Isn't Wasted Money: The Shocking Truth About Homeownership's Hidden Costs

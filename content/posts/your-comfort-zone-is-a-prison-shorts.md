@@ -7,6 +7,7 @@ tags: ["stoicism", "motivation", "selfimprovement", "mindset", "discomfort", "gr
 slug: "your-comfort-zone-is-a-prison-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Bars: Why Your Comfort Zone is a Prison (And How Stoic Wisdom Can Set You Free)

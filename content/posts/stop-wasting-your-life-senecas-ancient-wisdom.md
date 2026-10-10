@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-wasting-your-life-senecas-ancient-wisdom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Stop Wasting Your Life: Unlocking the Power of Seneca's Ancient Wisdom

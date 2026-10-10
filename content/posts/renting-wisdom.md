@@ -7,6 +7,7 @@ tags: ["personal finance", "renting", "money tips", "investing", "budgeting"]
 slug: "renting-wisdom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Myth: Why Smart Renting Is Your Path to Financial Freedom (And How to Master It!)

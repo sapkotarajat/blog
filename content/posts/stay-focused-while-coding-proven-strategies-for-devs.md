@@ -7,6 +7,7 @@ tags: ["coding", "productivity", "focus", "development"]
 slug: "stay-focused-while-coding-proven-strategies-for-devs"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "li8n_HDuZpA" >}}

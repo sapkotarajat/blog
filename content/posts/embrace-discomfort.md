@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "embrace-discomfort"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Your Limitless Potential: The Ultimate Guide to Embracing Discomfort for Massive Personal Growth

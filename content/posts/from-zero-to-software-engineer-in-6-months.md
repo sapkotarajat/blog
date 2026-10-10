@@ -7,6 +7,7 @@ tags: ["software engineer", "career growth", "tech"]
 slug: "from-zero-to-software-engineer-in-6-months"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Kick-Start Your Tech Career: Transforming into a Software Engineer in Just 6 Months

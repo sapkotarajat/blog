@@ -7,6 +7,7 @@ tags: ["AI", "App Development", "Programming"]
 slug: "build-your-first-ai-app-in-30-minutes"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "KOwOLrKkAXc" >}}

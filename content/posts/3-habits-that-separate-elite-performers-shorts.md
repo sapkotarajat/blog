@@ -7,6 +7,7 @@ tags: ["elite performance", "habits", "motivation", "success", "self improvement
 slug: "3-habits-that-separate-elite-performers-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond Talent: The 3 Non-Negotiable Habits That Forge Elite Performers (And How You Can Adopt Them Today)

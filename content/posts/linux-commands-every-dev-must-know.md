@@ -7,6 +7,7 @@ tags: ["Linux", "Development", "Coding", "Commands", "Productivity"]
 slug: "linux-commands-every-dev-must-know"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Inner Linux Power User: 25 Essential Commands Every Developer Needs to Master

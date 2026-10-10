@@ -9,6 +9,7 @@ tags: ["generative ai bank fraud", "ai in banking security", "2026 ai fraud dete
 slug: "shocking-how-genai-will-steal-485b-from-fraud-in-2026"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Looming Threat of GenAI-Powered Fraud: How to Protect Your Finances in 2026

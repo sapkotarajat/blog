@@ -7,6 +7,7 @@ tags: ["Telegram Bot", "Python Tutorial", "Bot Development"]
 slug: "build-a-telegram-bot-in-15-minutes-python-tutorial"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

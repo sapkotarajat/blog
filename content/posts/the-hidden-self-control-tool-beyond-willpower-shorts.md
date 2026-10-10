@@ -7,6 +7,7 @@ tags: ["Stoicism", "SelfControl", "Willpower", "Motivation", "Marcus Aurelius", 
 slug: "the-hidden-self-control-tool-beyond-willpower-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Willpower: Uncover the Ancient Stoic Secret to Unshakeable Self-Control and Lasting Motivation

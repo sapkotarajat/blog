@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "minimalist-mindset-the-path-to-unstoppable-wealth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Power of a **Minimalist Mindset**: The Path to Unstoppable **Wealth Creation**

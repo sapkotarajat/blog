@@ -7,6 +7,7 @@ tags: ["AI", "Monetization", "Career", "Tech"]
 slug: "monetize-ai-skills-5-proven-ways-to-get-started"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "p8nL9bpgmxE" >}}

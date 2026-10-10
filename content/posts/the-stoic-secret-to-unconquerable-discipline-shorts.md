@@ -7,6 +7,7 @@ tags: ["Stoicism", "Discipline", "Motivation", "SelfImprovement", "MarcusAureliu
 slug: "the-stoic-secret-to-unconquerable-discipline-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Forge Unbreakable Discipline: The Ancient Stoic Mindset Hack for Mastering Your Life

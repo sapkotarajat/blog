@@ -7,6 +7,7 @@ tags: ["Time Blocking", "Productivity", "Programming"]
 slug: "time-blocking-for-programmers-get-more-done"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

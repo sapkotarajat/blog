@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-wasting-time-senecas-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Reclaim Your Life: The Brutal Truth About Time Management According to Seneca

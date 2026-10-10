@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "shrink-your-circle-expand-your-empire"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Power of a Curated Inner Circle: The Key to Unparalleled Success and Inner Peace

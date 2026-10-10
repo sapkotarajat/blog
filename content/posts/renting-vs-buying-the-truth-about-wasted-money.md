@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting vs b
 slug: "renting-vs-buying-the-truth-about-wasted-money"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Rent Smarter, Live Richer: Why 'Wasted Money' is a Myth and How to Build Serious Wealth as a Renter

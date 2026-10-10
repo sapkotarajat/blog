@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "self-discipline-your-path-to-true-freedom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Unlock the Power of Self-Discipline: Break Free from the Chains of Impulse and Unleash Your True Potential**

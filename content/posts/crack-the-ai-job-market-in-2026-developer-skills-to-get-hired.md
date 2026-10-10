@@ -7,6 +7,7 @@ tags: ["AI job market", "developer skills", "2026 tech trends"]
 slug: "crack-the-ai-job-market-in-2026-developer-skills-to-get-hired"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "oZLkSj5qD4U" >}}

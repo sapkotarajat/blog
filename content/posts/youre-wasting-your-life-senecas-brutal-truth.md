@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "youre-wasting-your-life-senecas-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Reclaim Your Life: Seneca's Ancient Wisdom for Conquering Time Waste and Living with Purpose

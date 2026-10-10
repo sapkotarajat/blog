@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting vs b
 slug: "renting-smart-money-move-or-wasted-cash"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Debunking the Myth: Why Renting Might Be the Smartest **Financial Decision** You'll Ever Make

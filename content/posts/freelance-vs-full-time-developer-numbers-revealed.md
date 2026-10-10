@@ -7,6 +7,7 @@ tags: ["freelance", "full-time", "developer", "salary", "job security", "work-li
 slug: "freelance-vs-full-time-developer-numbers-revealed"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "KLiG9RJxgRY" >}}

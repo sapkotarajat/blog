@@ -7,6 +7,7 @@ tags: ["VPS setup", "web development", "tech tutorials"]
 slug: "vps-setup-101-launch-your-projects-in-minutes"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Full Potential of Your Projects with a **VPS Setup**

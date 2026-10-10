@@ -7,6 +7,7 @@ tags: ["API Security", "JWT", "OAuth", "API Keys"]
 slug: "api-authentication-jwt-oauth-api-keys-explained"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Boost Your App's Security with **API Authentication**: A Comprehensive Guide to JWT, OAuth, and API Keys

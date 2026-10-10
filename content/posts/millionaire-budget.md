@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "budgeting", "millionaire mindset", "in
 slug: "millionaire-budget"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Millionaire Wealth: Mastering the 50/30/20 Budgeting Rule

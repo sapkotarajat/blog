@@ -7,6 +7,7 @@ tags: ["personal finance", "car ownership", "transportation costs", "budgeting",
 slug: "car-costs"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Sticker Price: Unmasking the *True* Cost of Car Ownership (And How to Save Thousands!)

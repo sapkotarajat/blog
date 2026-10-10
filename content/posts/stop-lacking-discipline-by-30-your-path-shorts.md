@@ -7,6 +7,7 @@ tags: ["discipline", "stoicism", "motivation", "selfimprovement", "mindset", "pr
 slug: "stop-lacking-discipline-by-30-your-path-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Don't Let 30 Catch You Lacking: The Stoic Path to Unshakable Discipline and Mastering Your Life

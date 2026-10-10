@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "failure-is-teacher"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Transform Your Setbacks: How Stoic Wisdom Makes Failure Your Ultimate Teacher for Unstoppable Success

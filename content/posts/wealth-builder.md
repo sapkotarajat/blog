@@ -7,6 +7,7 @@ tags: ["personal finance", "minimum wage", "investing", "budgeting", "money tips
 slug: "wealth-builder"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## From Surviving to Thriving: Your Ultimate Blueprint for Building Wealth on Minimum Wage

@@ -7,6 +7,7 @@ tags: ["AI healthcare", "radiology AI", "medical AI", "AI experiment", "future o
 slug: "i-replaced-my-radiologist-with-ai-for-a-week-clear-winner"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

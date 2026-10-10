@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "wealth minds
 slug: "the-hidden-cost-of-a-bad-money-mindset"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond Budgets: How Your Money Mindset Is Costing You Millions (and 20 Ways to Rewire Your Brain for Financial Freedom)

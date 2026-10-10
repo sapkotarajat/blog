@@ -7,6 +7,7 @@ tags: ["AI consulting", "high-ticket services", "tech niche"]
 slug: "monetize-your-ai-expertise-charging-businesses-for-ai-strategy"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "UzA6K4ZMo6U" >}}

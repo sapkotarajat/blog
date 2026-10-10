@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting vs buying", "financial plannin
 slug: "renting-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Mortgage Myth: Why Renting Might Be Your Smartest Financial Move

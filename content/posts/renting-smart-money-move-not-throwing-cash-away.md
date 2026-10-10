@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting", "h
 slug: "renting-smart-money-move-not-throwing-cash-away"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # "Rent Is Dead Money" Is a Myth: Why Strategic Renting Can Build More Wealth Than Buying

@@ -7,6 +7,7 @@ tags: ["selfdiscipline", "motivation", "stoicism", "success", "mindset", "ancien
 slug: "master-discipline-master-your-life-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Unstoppable Success: How Stoic Self-Discipline Becomes Your Greatest Act of Self-Love

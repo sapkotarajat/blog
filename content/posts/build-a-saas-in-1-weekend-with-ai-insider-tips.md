@@ -7,6 +7,7 @@ tags: ["SaaS", "Artificial Intelligence", "Productivity", "Tech"]
 slug: "build-a-saas-in-1-weekend-with-ai-insider-tips"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

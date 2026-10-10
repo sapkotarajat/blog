@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "index funds", "individual
 slug: "index-funds"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Index Funds vs. Individual Stocks: The Ultimate Showdown for Building Your Wealth

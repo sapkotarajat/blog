@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "time-management"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Time Management: Stop Wasting Time and Start Achieving Your Goals

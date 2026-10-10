@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-brutal-truth-about-your-wasted-time"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Stop Wasting Your Life: The Brutal Truth and the Stoic Path to Reclaiming Every Precious Moment

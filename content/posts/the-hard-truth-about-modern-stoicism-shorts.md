@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "Marcus Aurelius", "Epictetus", "Self Help", "m
 slug: "the-hard-truth-about-modern-stoicism-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond Buzzwords: The Hard Truth About Modern Stoicism and How to Reclaim Its Ancient Power

@@ -7,6 +7,7 @@ tags: ["youtube", "ai", "tech", "content creation", "marketing"]
 slug: "building-a-youtube-channel-with-ai-a-step-by-step-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "ToDtlcbRmtE" >}}

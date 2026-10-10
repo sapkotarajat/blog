@@ -7,6 +7,7 @@ tags: ["Stoicism", "self-control", "motivation", "stoicism", "self improvement",
 slug: "the-one-stoic-rule-for-unshakeable-selfcontrol-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Unbreakable Mindset: How One Stoic Rule Forges Unshakeable Self-Control in a Chaotic World

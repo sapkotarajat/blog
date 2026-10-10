@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting"]
 slug: "invest-50"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Your Financial Future: How to Start Investing with Just $50 Today (and Watch Your Wealth Grow!)

@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "save money f
 slug: "save-10000-in-6-months-its-possible"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## How to Save $10,000 in 6 Months: A Step-by-Step Guide to Achieving Financial Freedom

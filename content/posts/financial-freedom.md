@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting"]
 slug: "financial-freedom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Your Financial Freedom: 13 Game-Changing Strategies to Break the Cycle and Build Lasting Wealth

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "gratitude", "ha
 slug: "gratitude-your-untapped-stoic-superpower"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Transformative Power of Gratitude: Your Key to Unwavering Strength and Joy

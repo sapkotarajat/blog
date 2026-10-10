@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "Mindset", "Resilience", "PersonalGrowth", "Men
 slug: "toughness-is-a-trap-be-flexible-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Brittle: Why Stoic Mental Flexibility Is Your Ultimate Advantage in a Chaotic World

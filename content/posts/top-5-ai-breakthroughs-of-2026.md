@@ -7,6 +7,7 @@ tags: ["AI Breakthroughs", "Artificial Intelligence", "Tech News"]
 slug: "top-5-ai-breakthroughs-of-2026"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "p2saSA7Rg-w" >}}

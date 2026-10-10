@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "selfimprovement", "decisionmaking", "age30", "
 slug: "dont-ruin-your-30s-decide-now-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Your Thirties Will Thank You: Master Decisive Action Now to Build a Life Without Regret

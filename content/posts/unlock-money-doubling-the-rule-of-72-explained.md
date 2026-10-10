@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "rule of 72",
 slug: "unlock-money-doubling-the-rule-of-72-explained"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Ultimate Guide to the Rule of 72: Double Your Money, Beat Inflation, & Master Your Financial Future

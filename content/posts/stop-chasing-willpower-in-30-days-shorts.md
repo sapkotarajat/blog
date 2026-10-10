@@ -7,6 +7,7 @@ tags: ["willpower", "habit", "Stoic", "motivation", "self-improvement", "stoicis
 slug: "stop-chasing-willpower-in-30-days-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Willpower: How to Forge Unstoppable Habits in 30 Days (A Stoic-Inspired Blueprint)

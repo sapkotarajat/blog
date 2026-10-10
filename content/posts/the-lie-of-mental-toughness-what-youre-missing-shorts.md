@@ -7,6 +7,7 @@ tags: ["mental toughness", "stoicism", "motivation", "self improvement", "mindse
 slug: "the-lie-of-mental-toughness-what-youre-missing-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Grit: The Stoic Path to Unshakeable Mental Toughness (It's Not What You Think!)

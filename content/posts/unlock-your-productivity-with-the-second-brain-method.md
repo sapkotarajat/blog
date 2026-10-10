@@ -7,6 +7,7 @@ tags: ["second brain", "productivity", "developers"]
 slug: "unlock-your-productivity-with-the-second-brain-method"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Your Genius: How the Second Brain Method Will Revolutionize Your Work, Boost Productivity, and Ignite Creativity

@@ -9,6 +9,7 @@ tags: ["AI arms race", "global AI competition", "AI ethics 2026", "geopolitics",
 slug: "secret-1-billion-ai-war-how-its-reshaping-world-power"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Shocking Truth About the $1 Billion AI War: How It's Reshaping World Power

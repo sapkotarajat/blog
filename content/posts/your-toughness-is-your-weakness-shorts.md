@@ -7,6 +7,7 @@ tags: ["Stoicism", "Mental Toughness", "Motivation", "Self Improvement", "Marcus
 slug: "your-toughness-is-your-weakness-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unmasking 'Mental Toughness': Why Brittle Strength Backfires & How Stoicism Builds Unbreakable Resilience

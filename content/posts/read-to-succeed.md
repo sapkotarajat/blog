@@ -7,6 +7,7 @@ tags: ["motivation", "self improvement", "reading", "personal growth", "stoicism
 slug: "read-to-succeed"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Reading: The Ultimate Cheat Code for Personal Growth and Self-Improvement

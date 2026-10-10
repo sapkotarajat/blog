@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "time-thief"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Reclaim Your Hours: Seneca's Ancient Wisdom to Master Time, Boost Productivity, and Live a Focused Life

@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "financial fr
 slug: "unlock-your-wealth-the-3-bank-accounts-you-need"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Transform Your Money Chaos: The 3 Essential Bank Accounts That Unlock Real Wealth

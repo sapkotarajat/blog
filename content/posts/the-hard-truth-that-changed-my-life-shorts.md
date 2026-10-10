@@ -7,6 +7,7 @@ tags: ["Stoic motivation", "Seneca lesson", "Epictetus advice", "Marcus Aurelius
 slug: "the-hard-truth-that-changed-my-life-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Uncomfortable Truth About Success: How Ancient Stoicism Rewired My Life for Unshakeable Inner Peace and Lasting Freedom

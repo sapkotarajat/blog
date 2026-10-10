@@ -7,6 +7,7 @@ tags: ["motivation", "discipline", "talent", "success", "stoicism", "self improv
 slug: "discipline-over-talent"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond Raw Talent: Why Discipline Is Your Undeniable Superpower for Unstoppable Success

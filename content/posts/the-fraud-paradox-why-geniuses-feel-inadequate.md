@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-fraud-paradox-why-geniuses-feel-inadequate"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unmasking the Fraud Paradox: Why High Achievers Feel Like Impostors

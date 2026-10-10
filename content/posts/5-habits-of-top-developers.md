@@ -7,6 +7,7 @@ tags: ["10x developer", "habits of successful developers", "coding skills"]
 slug: "5-habits-of-top-developers"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleash Your Inner 10x Developer: 5 Transformative Habits That Will Skyrocket Your Coding Career

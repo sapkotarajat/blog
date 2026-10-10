@@ -7,6 +7,7 @@ tags: ["Telegram Bot", "Python", "BotFather", "API"]
 slug: "build-a-telegram-bot-with-python-in-15-minutes-easy-tutorial"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

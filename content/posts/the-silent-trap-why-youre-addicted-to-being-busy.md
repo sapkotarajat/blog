@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "productivity", 
 slug: "the-silent-trap-why-youre-addicted-to-being-busy"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Escape the Busy Trap: How to Reclaim Your Time, Focus, and Life from the Addiction of Constant Activity

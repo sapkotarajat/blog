@@ -7,6 +7,7 @@ tags: ["developer salary", "negotiation", "career development"]
 slug: "crush-your-salary-negotiation-as-a-developer"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "QQcYxEND1VU" >}}

@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "cryptocurren
 slug: "crypto-why-you-still-need-to-pay-attention"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Bitcoin Buzz: Why **Cryptocurrency** is Your Essential Key to Unlocking the Future of Finance and Technology

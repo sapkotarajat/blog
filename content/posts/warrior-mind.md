@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "warrior-mind"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleash Your Inner Spartan: Forge a Warrior Mindset for Unstoppable Mental Toughness

@@ -7,6 +7,7 @@ tags: ["AI", "machine learning", "tech industry", "software development"]
 slug: "senior-devs-switch-to-ai-why-now"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "why-comfort-is-killing-your-potential"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Chains of Comfort: How Embracing Discomfort Can Unleash Your True Potential

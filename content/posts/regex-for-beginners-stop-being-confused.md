@@ -7,6 +7,7 @@ tags: ["regex", "regular expressions", "programming"]
 slug: "regex-for-beginners-stop-being-confused"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Regex: A Beginner's Guide to Mastering Regular Expressions

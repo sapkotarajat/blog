@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting vs buying", "homeownership cos
 slug: "renting-smart-money-moves-not-wasted-cash"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Rethink Rent: Why Owning a Home Isn't Always the Smartest Move (and How Renters Build Wealth Faster)

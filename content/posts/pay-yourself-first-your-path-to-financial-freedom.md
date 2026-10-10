@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "financial fr
 slug: "pay-yourself-first-your-path-to-financial-freedom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Shocking Truth About Wealth Building: Why "Pay Yourself First" is Your #1 Secret to Financial Freedom

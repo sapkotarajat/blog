@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-waiting-for-motivation"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking Free from the Motivation Trap: How to Take Action with the Power of Stoicism

@@ -7,6 +7,7 @@ tags: ["AI", "Mobile Apps", "Monetization", "Tech", "Startups", "Entrepreneurshi
 slug: "build-ai-powered-mobile-apps-make-money"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "bteXCyxvMZs" >}}

@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "dollar cost averaging"]
 slug: "dca-power"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Secret Weapon of Savvy Investors: Mastering Dollar-Cost Averaging (DCA) for Long-Term Growth

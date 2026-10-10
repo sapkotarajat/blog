@@ -7,6 +7,7 @@ tags: ["Epictetus", "Stoicism", "self control", "motivation", "personal growth",
 slug: "control-what-you-can-epictetus-way-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Master Your Destiny: The Epictetus‑Based Blueprint to Control Your Thoughts, Boost Self‑Control, and Reclaim Power Over Life**

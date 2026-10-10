@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "Dave Ramsey", "budgeting", "investing"
 slug: "dave-ramsey-works"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Your Financial Future: Why Dave Ramsey's Debt-Free Path Still *Works* (Even for You!)

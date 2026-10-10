@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "dopamine-trap"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking Free from the **Dopamine Trap**: A Path to **Self Improvement** and **Motivation**

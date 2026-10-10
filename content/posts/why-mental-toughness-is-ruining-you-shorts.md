@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "mental toughness", "self improvement", "mindse
 slug: "why-mental-toughness-is-ruining-you-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Stoic Paradox: Is Your "Mental Toughness" Secretly Undermining Your True Strength?

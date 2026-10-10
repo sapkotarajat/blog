@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "senecas-harsh-truth-why-youre-wasting-your-life"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Wake-Up Call: Why You're Wasting Your Life and How to Reclaim Your Time

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "confidence", "mindset"]
 slug: "confident-not-arrogant"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking Genuine **Confidence**: How to Develop a Strong Sense of Self Without Crossing the Line into Arrogance

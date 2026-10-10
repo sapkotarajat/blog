@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "unmasking-perfectionism-the-fear-holding-you-back"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking Free from the Shackles of Perfectionism: How Fear Holds You Back

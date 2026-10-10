@@ -7,6 +7,7 @@ tags: ["Stoicism", "mental strength", "self-improvement", "motivation", "philoso
 slug: "forget-10-books-the-real-path-to-mental-strength-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Your Blueprint for an Unshakeable Mind: Mastering Mental Strength with Stoic Philosophy

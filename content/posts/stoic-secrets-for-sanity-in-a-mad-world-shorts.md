@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "SelfImprovement", "MarcusAurelius", "MentalTou
 slug: "stoic-secrets-for-sanity-in-a-mad-world-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unshakeable Calm: Ancient Stoic Secrets to Master Your Mind and Thrive in a Chaotic World

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "criticism", "me
 slug: "the-unshakeable-mind-mastering-criticism-stoic-style"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Stoic Resilience: How to Handle Criticism with Confidence and Poise

@@ -7,6 +7,7 @@ tags: ["emergency fund", "personal finance", "money management", "budgeting", "m
 slug: "build-emergency-fund-from-scratch"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Financial Freedom: Your Ultimate Guide to Building an Emergency Fund from Scratch (Even If You're Broke!)

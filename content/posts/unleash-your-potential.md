@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "unleash-your-potential"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleash Your Inner Strength: Breaking Free from the Chains of Comfort with **Stoic Philosophy**

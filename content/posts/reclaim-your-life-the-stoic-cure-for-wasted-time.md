@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "reclaim-your-life-the-stoic-cure-for-wasted-time"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Reclaim Your Life: Unleashing the Power of **Stoic Time Management** to Achieve True Freedom

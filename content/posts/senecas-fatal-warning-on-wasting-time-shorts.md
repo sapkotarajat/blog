@@ -7,6 +7,7 @@ tags: ["Seneca", "Stoicism", "Time Management", "Motivation", "motivation", "sto
 slug: "senecas-fatal-warning-on-wasting-time-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Clock: Why Seneca Called Wasted Minutes "Silent Murderers" and How to Reclaim Your Most Precious Asset

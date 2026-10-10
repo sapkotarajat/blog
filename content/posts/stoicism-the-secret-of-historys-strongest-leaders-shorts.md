@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "Leadership", "SelfImprovement", "Mindset", "mo
 slug: "stoicism-the-secret-of-historys-strongest-leaders-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Ancient Wisdom: How Stoicism Forged Unshakeable Leaders & Can Transform Your Modern Life

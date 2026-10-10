@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "create-urgency"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Ignite Your Inner Fire: How to Cultivate Unstoppable Urgency in a World That Wants You to Wait

@@ -7,6 +7,7 @@ tags: ["web scraping", "python", "data scraping", "python tutorials"]
 slug: "web-scraping-with-python-a-beginners-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock the Web: Your Ultimate Hands-On Guide to Web Scraping with [Python](https://python.org), BeautifulSoup & Scrapy

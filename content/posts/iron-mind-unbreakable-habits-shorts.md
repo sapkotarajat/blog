@@ -7,6 +7,7 @@ tags: ["Stoic", "Habit formation", "Motivation", "Mindset", "motivation", "stoic
 slug: "iron-mind-unbreakable-habits-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Willpower: Forge an Iron Mind with Stoic Secrets to Unbreakable Habits

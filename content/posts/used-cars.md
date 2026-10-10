@@ -7,6 +7,7 @@ tags: ["personal finance", "millionaires", "used cars", "frugal living", "money 
 slug: "used-cars"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Millionaire Secrets: Why Driving Used Cars (and Embracing Frugal Living) Is Your Fastest Path to Wealth

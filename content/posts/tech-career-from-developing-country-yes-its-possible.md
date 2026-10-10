@@ -7,6 +7,7 @@ tags: ["tech career", "developing country", "career advice"]
 slug: "tech-career-from-developing-country-yes-its-possible"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Kickstarting a **Tech Career** from a Developing Country: Turning Obstacles into Opportunities

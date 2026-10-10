@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "jealousy", "per
 slug: "jealousy-your-hidden-compass-to-purpose"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Envy: How to Transform Jealousy into Your Most Powerful Guide to Purpose and Unshakeable Growth

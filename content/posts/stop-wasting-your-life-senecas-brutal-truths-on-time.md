@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-wasting-your-life-senecas-brutal-truths-on-time"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Brutal Truth: Mastering the Finite Nature of Time

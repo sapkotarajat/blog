@@ -7,6 +7,7 @@ tags: ["willpower", "self-control", "stoicism", "Marcus Aurelius", "Seneca", "Ep
 slug: "willpower-is-a-myth-stoics-reveal-the-real-key-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unmasking the Willpower Myth: Stoicism's Path to Effortless Self-Control Through Habit

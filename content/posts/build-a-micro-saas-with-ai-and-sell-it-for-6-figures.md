@@ -7,6 +7,7 @@ tags: ["Micro-SaaS", "AI", "SaaS", "Entrepreneurship", "Tech"]
 slug: "build-a-micro-saas-with-ai-and-sell-it-for-6-figures"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "FNkMLdJzmZU" >}}

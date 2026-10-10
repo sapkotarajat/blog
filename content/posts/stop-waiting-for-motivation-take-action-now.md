@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-waiting-for-motivation-take-action-now"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleash Your Inner Architect: Stoic Secrets to Building Unstoppable Discipline and Crushing Procrastination (No Motivation Needed!)

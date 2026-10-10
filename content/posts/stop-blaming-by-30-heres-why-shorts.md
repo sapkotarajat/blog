@@ -7,6 +7,7 @@ tags: ["stoicism", "motivation", "selfimprovement", "responsibility", "mindset",
 slug: "stop-blaming-by-30-heres-why-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Reclaim Your Narrative: The Urgent Case for Radical Responsibility By Age 30

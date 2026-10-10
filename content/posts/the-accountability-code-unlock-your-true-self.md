@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "accountability"
 slug: "the-accountability-code-unlock-your-true-self"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Power of **Ruthless Accountability**: A Path to Unparalleled Growth

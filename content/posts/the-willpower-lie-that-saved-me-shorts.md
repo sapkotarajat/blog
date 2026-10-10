@@ -7,6 +7,7 @@ tags: ["willpower", "stoicism", "motivation", "self improvement", "mindset", "sh
 slug: "the-willpower-lie-that-saved-me-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Grit: The Ancient Stoic Secret to Effortless Self-Control (Why Willpower Is a Lie)

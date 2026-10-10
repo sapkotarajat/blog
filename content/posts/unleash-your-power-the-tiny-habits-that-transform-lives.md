@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "productivity", 
 slug: "unleash-your-power-the-tiny-habits-that-transform-lives"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Transformative Power of Micro-Wins: How Small, Daily Choices Can Revolutionize Your Life

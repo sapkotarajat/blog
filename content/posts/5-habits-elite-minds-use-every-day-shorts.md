@@ -7,6 +7,7 @@ tags: ["Stoicism", "discipline", "motivation", "self improvement", "Marcus Aurel
 slug: "5-habits-elite-minds-use-every-day-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Forge Your Focus: 5 Ancient Habits Elite Minds Use Daily for Unstoppable Productivity & Inner Peace

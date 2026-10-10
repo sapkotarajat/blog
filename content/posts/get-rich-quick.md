@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "get rich qui
 slug: "get-rich-quick"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Ditch the Delusions: Your Honest Guide to Building Real Wealth (No "Get Rich Quick" Required!)

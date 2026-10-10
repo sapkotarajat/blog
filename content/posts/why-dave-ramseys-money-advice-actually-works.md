@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "debt snowbal
 slug: "why-dave-ramseys-money-advice-actually-works"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Balance Sheet: Why Dave Ramsey's 'Controversial' Money Advice Delivers Real Results

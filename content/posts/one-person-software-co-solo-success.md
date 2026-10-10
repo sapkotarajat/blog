@@ -7,6 +7,7 @@ tags: ["one person software company", "solopreneur", "tech entrepreneurship"]
 slug: "one-person-software-co-solo-success"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **From Scratch to Success: How to Thrive as a One-Person Software Company**

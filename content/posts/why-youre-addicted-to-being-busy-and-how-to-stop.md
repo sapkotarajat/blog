@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "why-youre-addicted-to-being-busy-and-how-to-stop"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Silent Addiction: Why You're Trapped in Perpetual Busyness & 9 Stoic Steps to Reclaim Your Life

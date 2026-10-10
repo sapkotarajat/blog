@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "free-yourself"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## From Validation Slavery to True Freedom: How Stoicism Can Help You Stop Caring What Others Think

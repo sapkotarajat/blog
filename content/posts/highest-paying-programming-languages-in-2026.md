@@ -7,6 +7,7 @@ tags: ["programming languages", "highest paying", "tech careers"]
 slug: "highest-paying-programming-languages-in-2026"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Code Your Way to Riches: The Top-Paying Programming Languages of 2026 You NEED to Learn Now!

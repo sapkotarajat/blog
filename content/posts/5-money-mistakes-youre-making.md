@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "financial mistakes", "investing"]
 slug: "5-money-mistakes-youre-making"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Are You Making These 5 Costly Money Mistakes? Take Control of Your Finances Today

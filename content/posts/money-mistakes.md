@@ -7,6 +7,7 @@ tags: ["personal finance", "money mistakes", "investing", "budgeting", "money ti
 slug: "money-mistakes"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Don't Let Money Mistakes Hold You Back: Take Control of Your Finances Today

@@ -7,6 +7,7 @@ tags: ["Stoic motivation", "Acceptance", "Marcus Aurelius", "Epictetus", "Self i
 slug: "acceptance-is-strength-not-weakness-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Why Acceptance Is Your Superpower: Stoic Secrets to Unshakable Strength  

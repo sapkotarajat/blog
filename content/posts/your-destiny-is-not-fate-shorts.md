@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "selfimprovement", "discipline", "mindset", "de
 slug: "your-destiny-is-not-fate-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Fate: How Ancient Stoicism Empowers You to Actively Forge Your Own Destiny

@@ -7,6 +7,7 @@ tags: ["tech skills", "obsolete skills", "ai", "cybersecurity"]
 slug: "tech-skills-that-will-become-obsolete-in-2024"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

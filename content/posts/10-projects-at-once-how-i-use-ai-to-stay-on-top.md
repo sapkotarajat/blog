@@ -7,6 +7,7 @@ tags: ["AI productivity", "project management", "productivity hacks"]
 slug: "10-projects-at-once-how-i-use-ai-to-stay-on-top"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Boost Your Productivity with AI: Managing Multiple Projects Simultaneously

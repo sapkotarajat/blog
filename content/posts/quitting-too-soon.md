@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "quitting-too-soon"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Are You Quitting Too Soon? How Stoic Wisdom Can Power Your Motivation Past Self-Doubt to Unstoppable Success

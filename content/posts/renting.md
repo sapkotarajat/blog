@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting vs buying", "investing", "budg
 slug: "renting"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Debunking the Myth: Why Renting is Not Always Throwing Money Away

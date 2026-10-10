@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "SelfImprovement", "MarcusAurelius", "Epictetus
 slug: "the-real-stoic-virtue-youre-missing-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Unseen Core of Stoicism: Why Radical Self-Ownership is Your Secret Weapon for Inner Peace

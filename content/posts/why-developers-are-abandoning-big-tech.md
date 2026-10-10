@@ -7,6 +7,7 @@ tags: ["tech news", "developers leaving big tech", "tech talent migration"]
 slug: "why-developers-are-abandoning-big-tech"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

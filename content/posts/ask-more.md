@@ -7,6 +7,7 @@ tags: ["motivation", "leadership", "stoicism", "self-improvement", "self improve
 slug: "ask-more"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Unseen Power: How Asking More Questions Will Revolutionize Your Leadership, Mindset, and Life

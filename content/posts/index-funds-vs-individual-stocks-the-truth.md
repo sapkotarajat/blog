@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "stocks", "index funds"]
 slug: "index-funds-vs-individual-stocks-the-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secrets of **Index Funds** and **Individual Stocks**: A Comprehensive Guide to Investing Wisely

@@ -7,6 +7,7 @@ tags: ["Stoicism", "Discipline", "Motivation", "AncientWisdom", "SelfImprovement
 slug: "the-ancient-secret-to-iron-discipline-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Forged in Fire: How Ancient Stoicism Builds Unbreakable Iron Discipline for Modern Life

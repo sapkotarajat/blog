@@ -7,6 +7,7 @@ tags: ["technical documentation", "code reading", "productivity"]
 slug: "crack-code-reading-technical-docs-in-minutes"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

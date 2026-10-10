@@ -7,6 +7,7 @@ tags: ["AI design tools", "Figma alternatives", "design software"]
 slug: "5-ai-design-tools-that-replace-figma"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

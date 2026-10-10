@@ -7,6 +7,7 @@ tags: ["motivation", "productivity", "stoicism", "self improvement", "mindset"]
 slug: "destroy-procrastination"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Finally Conquer Procrastination: The 2-Minute Rule & Stoic Secrets to Unstoppable Productivity

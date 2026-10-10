@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "unleash-your-purpose-find-direction-when-lost"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Finding Your True North: How to Unleash Your Purpose and Live a Meaningful Life

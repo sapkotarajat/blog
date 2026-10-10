@@ -7,6 +7,7 @@ tags: ["Motivation", "Stoicism", "Self Improvement", "Identity Shift", "30s Succ
 slug: "stop-being-average-by-30-choose-greatness-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The 30-Year Revolution: How to Stop Being Average and Forge an Extraordinary Life Before You Turn 30

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "your-time-dies-senecas-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleashing Your True Potential: Mastering the Art of Time Management with Seneca's Wisdom

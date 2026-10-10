@@ -7,6 +7,7 @@ tags: ["DavidGoggins", "Motivation", "Stoicism", "Mindset", "SelfImprovement", "
 slug: "goggins-40-rule-your-minds-biggest-lie-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Shatter Your Limits: How David Goggins' 40% Rule Unlocks Unstoppable Mental Toughness and True Potential

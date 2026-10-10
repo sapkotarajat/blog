@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting vs b
 slug: "renting-vs-buying-why-youre-wrong-about-dead-money"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the 'Dead Money' Myth: Why Renting Could Be Your Smartest Path to Massive Wealth

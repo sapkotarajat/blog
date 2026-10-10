@@ -7,6 +7,7 @@ tags: ["tech", "development", "productivity", "morning routine"]
 slug: "morning-routine-of-a-6-figure-developer"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "ZAkLlqLlVD8" >}}

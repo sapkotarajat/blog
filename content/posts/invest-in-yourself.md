@@ -7,6 +7,7 @@ tags: ["personal finance", "self-improvement", "investing in yourself", "career 
 slug: "invest-in-yourself"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Smartest Investment You'll Ever Make: How to Supercharge Your Life & Career by Investing in Yourself

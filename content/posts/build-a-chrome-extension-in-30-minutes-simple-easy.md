@@ -7,6 +7,7 @@ tags: ["chrome extension", "web development", "tech"]
 slug: "build-a-chrome-extension-in-30-minutes-simple-easy"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

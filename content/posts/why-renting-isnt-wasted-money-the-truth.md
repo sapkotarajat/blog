@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting vs buying", "homeownership myt
 slug: "why-renting-isnt-wasted-money-the-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Surprising Truth About Renting: Why It's Not Always a Waste of Money

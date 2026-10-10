@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-overthinking-reclaim-your-life-conquer-indecision"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Stop Overthinking, Start Living: Your Stoic Blueprint for Decisive Action and a Life Reclaimed

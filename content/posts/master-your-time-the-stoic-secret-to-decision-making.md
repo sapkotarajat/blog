@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "decision making
 slug: "master-your-time-the-stoic-secret-to-decision-making"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Drowning in To-Dos? Unlock Your Inner Stoic: Master Decisions, Reclaim Your Time with the Eisenhower Matrix (And Banish Overwhelm Forever)

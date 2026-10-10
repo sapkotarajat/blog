@@ -7,6 +7,7 @@ tags: ["AI", "Web Development", "Tech Career", "Job Market Trends"]
 slug: "ai-vs-web-dev-which-to-learn-in-2026"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # AI vs. Web Development in 2026: Your Ultimate Guide to Choosing Your Tech Career Path

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "comeback"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Turning Setbacks into Comebacks: The Power of Stoic Philosophy and Resilience

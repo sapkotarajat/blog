@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "never-waste-time-again-senecas-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Break Free from the Time-Wasting Trap: Unlocking Seneca's Timeless Wisdom for a Life of Purpose

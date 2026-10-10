@@ -7,6 +7,7 @@ tags: ["Artificial Intelligence", "Business Automation", "Productivity Hacks"]
 slug: "automate-your-business-with-ai-a-beginners-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "Fn_bc64zEmk" >}}

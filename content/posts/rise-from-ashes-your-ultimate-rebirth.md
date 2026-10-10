@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "rock bottom", "
 slug: "rise-from-ashes-your-ultimate-rebirth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## From Rock Bottom to Rebirth: How to Rise Like a Phoenix from the Ashes of Adversity

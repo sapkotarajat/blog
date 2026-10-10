@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "decades-not-days-the-stoic-path-to-enduring-success"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Long-Term Thinking: How to Achieve Enduring Success with **Stoic Wisdom**

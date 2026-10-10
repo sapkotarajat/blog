@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "Wisdom", "SelfImprovement", "Zeno", "motivatio
 slug: "ignorance-destroys-wisdom-zeno-knew-why-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Shadows: How Willful **Ignorance** Kills Your Potential & Why Zeno Demanded You Seek True Wisdom

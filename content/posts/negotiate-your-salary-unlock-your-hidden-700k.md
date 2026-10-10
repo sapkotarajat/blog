@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "salary negotiation", "career growth", 
 slug: "negotiate-your-salary-unlock-your-hidden-700k"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Don't Leave $700K on the Table: Master the Art of Salary Negotiation & Boost Your Wealth

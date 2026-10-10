@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting vs b
 slug: "why-renting-can-be-smarter-than-buying-unpacked"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Rethink Your Rent: Why Strategic Renting Can Build More Wealth Than Buying a Home (for Many!)

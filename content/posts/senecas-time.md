@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "productivity"]
 slug: "senecas-time"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secrets of Seneca's Time: How to Stop Wasting Time and Live a More Fulfilling Life with **Stoicism** and **Self Improvement**

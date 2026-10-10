@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-wasting-your-life-senecas-brutal-truths"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Stop Wasting Your Life: Unlock Seneca's Timeless Wisdom to Reclaim Your Time and Live Fully

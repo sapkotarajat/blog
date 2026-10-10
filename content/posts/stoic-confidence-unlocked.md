@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stoic-confidence-unlocked"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Power of **Stoic Confidence**: How to Develop Unshakeable Faith in Yourself

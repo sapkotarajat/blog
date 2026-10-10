@@ -7,6 +7,7 @@ tags: ["motivation", "mental health", "self improvement", "mindset", "stoicism"]
 slug: "mental-edge"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Power of Mental Health: How a Resilient Mindset Can Give You a Competitive Edge

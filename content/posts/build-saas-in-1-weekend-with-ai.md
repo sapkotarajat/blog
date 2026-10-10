@@ -7,6 +7,7 @@ tags: ["SaaS", "AI", "productivity", "tech"]
 slug: "build-saas-in-1-weekend-with-ai"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "FPtSFfoletA" >}}

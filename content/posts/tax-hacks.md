@@ -7,6 +7,7 @@ tags: ["tax hacks", "personal finance", "tax savings", "legal tax tips", "money 
 slug: "tax-hacks"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Don't Overpay! 15+ Legal Tax Hacks to Maximize Your Refund and Keep More of Your Money

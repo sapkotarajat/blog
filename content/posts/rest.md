@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "productivity"]
 slug: "rest"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Radical Power of Doing Nothing: Unlocking Peak Productivity & Well-being Through Strategic Rest

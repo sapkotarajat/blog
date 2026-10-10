@@ -7,6 +7,7 @@ tags: ["AI", "Monetization", "Career Development"]
 slug: "monetize-ai-skills-5-ways-to-get-paid-now"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

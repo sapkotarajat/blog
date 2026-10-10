@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-the-auto-pilot-reclaim-your-conscious-life"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Wake Up: The Alarming Reality of Living on Autopilot and the Power of **Conscious Living**

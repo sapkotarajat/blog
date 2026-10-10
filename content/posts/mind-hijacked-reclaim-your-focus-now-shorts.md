@@ -7,6 +7,7 @@ tags: ["stoicism", "focus", "mindset", "motivation", "self-improvement", "produc
 slug: "mind-hijacked-reclaim-your-focus-now-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Noise: Ancient Stoic Secrets to Unbreakable Focus in a Distracted World

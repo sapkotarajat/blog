@@ -7,6 +7,7 @@ tags: ["AI", "Future of AI", "Artificial Intelligence"]
 slug: "the-future-of-ai-what-to-expect"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "a9-C6cwplPk" >}}

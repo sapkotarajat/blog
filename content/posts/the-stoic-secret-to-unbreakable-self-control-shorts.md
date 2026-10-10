@@ -7,6 +7,7 @@ tags: ["Stoicism", "SelfControl", "Motivation", "MentalToughness", "AncientWisdo
 slug: "the-stoic-secret-to-unbreakable-self-control-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Forgotten Stoic Habit: Achieve Radical Self-Control and Conquer Any Challenge

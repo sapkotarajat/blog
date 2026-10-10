@@ -7,6 +7,7 @@ tags: ["mental toughness", "stoicism", "motivation", "self-improvement", "resili
 slug: "your-mental-toughness-is-backfiring-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Grit: Why Your 'Mental Toughness' Is Hurting You (And The Stoic Secret to Unbreakable Resilience)

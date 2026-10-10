@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "debt snowbal
 slug: "why-dave-ramseys-plan-still-works-for-most-people"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Conquer Your Cash Chaos: Why Dave Ramsey's 'Old School' Financial Plan Still Delivers Real Freedom

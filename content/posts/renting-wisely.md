@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "renting", "investing", "budgeting"]
 slug: "renting-wisely"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Myth: Why Renting Smartly Can Be Your Smartest Financial Power Play

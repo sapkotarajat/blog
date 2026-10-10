@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "escape-the-busyness-trap-reclaim-your-life"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Escape the Busyness Trap: Reclaim Your Life, Find Your Purpose

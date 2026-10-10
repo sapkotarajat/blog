@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-wasting-your-life-senecas-timeless-wisdom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secrets of Time Management: Reclaim Your Life with Seneca's Timeless Wisdom

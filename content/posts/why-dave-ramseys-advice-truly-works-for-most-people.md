@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "Dave Ramsey"
 slug: "why-dave-ramseys-advice-truly-works-for-most-people"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unshackle Your Finances: Why Dave Ramsey's Baby Steps Are the Proven Path to Financial Freedom for Millions

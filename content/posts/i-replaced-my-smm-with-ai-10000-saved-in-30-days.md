@@ -7,6 +7,7 @@ tags: ["AI for Business", "Social Media Marketing", "AI Tools", "ChatGPT", "Midj
 slug: "i-replaced-my-smm-with-ai-10000-saved-in-30-days"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

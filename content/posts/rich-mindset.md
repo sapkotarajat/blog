@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "wealth mindset"]
 slug: "rich-mindset"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Bank Account: 20 Unconventional Secrets to Cultivating a Rich Mindset and Building Lasting Wealth

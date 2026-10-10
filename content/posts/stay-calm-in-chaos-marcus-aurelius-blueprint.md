@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "calm", "chaos",
 slug: "stay-calm-in-chaos-marcus-aurelius-blueprint"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Inner Emperor: Marcus Aurelius's Timeless Blueprint for Unshakeable Calm in a Chaotic World

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "master-any-debate-with-unshakable-stoic-logic"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Mastering the Art of Argumentation with Unyielding **Stoic Logic**

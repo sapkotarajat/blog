@@ -7,6 +7,7 @@ tags: ["AI", "GPT-5", "OpenAI", "AI 2026", "artificial intelligence", "Elon Musk
 slug: "gpt-54-just-beat-humans-heres-what-comes-next"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The AI Revolution: How **GPT-5.4** is Changing the Game and What Comes Next

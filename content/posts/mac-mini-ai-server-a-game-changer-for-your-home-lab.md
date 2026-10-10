@@ -7,6 +7,7 @@ tags: ["Mac Mini", "AI Server", "Machine Learning", "Home Lab"]
 slug: "mac-mini-ai-server-a-game-changer-for-your-home-lab"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock AI Potential: Turn Your Mac Mini into a 24/7 Server for Machine Learning & Data Science

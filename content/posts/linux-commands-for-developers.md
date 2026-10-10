@@ -7,6 +7,7 @@ tags: ["linux", "commands", "development"]
 slug: "linux-commands-for-developers"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "S4vpya56ELY" >}}

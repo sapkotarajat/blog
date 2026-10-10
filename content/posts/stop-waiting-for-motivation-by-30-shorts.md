@@ -7,6 +7,7 @@ tags: ["Motivation", "Stoicism", "Procrastination", "Self-help", "Productivity",
 slug: "stop-waiting-for-motivation-by-30-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Stop Waiting for Motivation — How to Crush Procrastination and Build an unstoppable Life Before 30**

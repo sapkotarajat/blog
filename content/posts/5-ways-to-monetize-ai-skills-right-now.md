@@ -7,6 +7,7 @@ tags: ["AI skills", "monetization", "career development"]
 slug: "5-ways-to-monetize-ai-skills-right-now"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

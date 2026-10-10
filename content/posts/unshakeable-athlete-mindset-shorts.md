@@ -7,6 +7,7 @@ tags: ["mental strength", "Stoicism", "athlete mindset", "performance", "resilie
 slug: "unshakeable-athlete-mindset-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Forge Your Iron Will: Unlocking the Unshakeable Athlete Mindset with Ancient Stoic Secrets

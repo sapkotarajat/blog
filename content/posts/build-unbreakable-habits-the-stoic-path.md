@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "build-unbreakable-habits-the-stoic-path"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Motivation: How Ancient Stoic Wisdom Forges Unbreakable Habits for a Disciplined Life

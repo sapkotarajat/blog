@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "resilience", "a
 slug: "unbreakable-spirit-motivated-in-adversity"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Inner Stoic: How to Stay Fiercely Motivated When Life Crumbles Around You

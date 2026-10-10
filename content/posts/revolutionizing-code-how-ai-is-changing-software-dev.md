@@ -7,6 +7,7 @@ tags: ["AI", "SoftwareDevelopment", "FutureOfWork"]
 slug: "revolutionizing-code-how-ai-is-changing-software-dev"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "m99bFaE0ysg" >}}

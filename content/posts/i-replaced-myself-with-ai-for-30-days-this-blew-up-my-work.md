@@ -7,6 +7,7 @@ tags: ["AI experiment", "AI productivity", "ChatGPT", "GitHub Copilot", "Future 
 slug: "i-replaced-myself-with-ai-for-30-days-this-blew-up-my-work"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "lrwGjdwSgL4" >}}

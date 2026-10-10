@@ -7,6 +7,7 @@ tags: ["Python", "AI", "Automation", "Productivity", "Code"]
 slug: "automate-everything-with-python-ai"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "5-Dls9SF_U4" >}}

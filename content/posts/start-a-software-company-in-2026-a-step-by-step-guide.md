@@ -7,6 +7,7 @@ tags: ["software company", "start a business", "tech startup"]
 slug: "start-a-software-company-in-2026-a-step-by-step-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

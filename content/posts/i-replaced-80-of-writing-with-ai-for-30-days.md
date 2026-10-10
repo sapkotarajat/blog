@@ -7,6 +7,7 @@ tags: ["AI writing tools", "content creation", "productivity", "writing experime
 slug: "i-replaced-80-of-writing-with-ai-for-30-days"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

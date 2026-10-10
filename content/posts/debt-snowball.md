@@ -7,6 +7,7 @@ tags: ["personal finance", "debt snowball", "money tips", "budgeting", "investin
 slug: "debt-snowball"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Crush Your Debt: The Ultimate Guide to the Debt Snowball Method for Financial Freedom

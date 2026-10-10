@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "boredom", "crea
 slug: "unlock-your-genius-embrace-the-power-of-boredom"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Unleashing Your Inner Genius: The Power of Boredom

@@ -7,6 +7,7 @@ tags: ["motivation", "discipline", "stoicism", "success", "selfimprovement", "mi
 slug: "the-brutal-truth-about-why-youre-not-winning-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond Motivation: The Brutal Truth About Why You're Not Winning (And How Stoic Discipline Will Change Everything)

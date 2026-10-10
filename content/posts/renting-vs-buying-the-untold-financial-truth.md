@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "rent vs buy"
 slug: "renting-vs-buying-the-untold-financial-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Hidden Truth: Why Renting Might Be Smarter Than Buying

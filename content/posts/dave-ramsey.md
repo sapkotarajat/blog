@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "Dave Ramsey", "budgeting", "investing"
 slug: "dave-ramsey"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Take Control of Your Finances: The Power of Dave Ramsey's Personal Finance Advice

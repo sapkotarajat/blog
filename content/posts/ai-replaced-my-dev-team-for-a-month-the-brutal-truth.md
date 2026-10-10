@@ -7,6 +7,7 @@ tags: ["AI development", "AI coding", "developer jobs", "future of tech", "ChatG
 slug: "ai-replaced-my-dev-team-for-a-month-the-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "Iv4l3jPqsq4" >}}

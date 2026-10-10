@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "debt snowbal
 slug: "why-dave-ramseys-advice-still-works-for-many"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Debt-Free & Thriving: Why Dave Ramsey's Baby Steps Are Still Your Most Powerful Path to Financial Freedom

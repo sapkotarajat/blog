@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "confidence", "p
 slug: "the-stoic-secret-to-unshakeable-confidence"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Unshakeable Confidence: The Stoic Secret to Achieving Your Goals

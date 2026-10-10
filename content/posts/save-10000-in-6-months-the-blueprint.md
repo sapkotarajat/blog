@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "how to save 
 slug: "save-10000-in-6-months-the-blueprint"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Saving $10,000 in Just 6 Months: A Comprehensive Guide to **Financial Freedom**

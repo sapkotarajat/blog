@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "bushido", "samu
 slug: "the-samurai-code-unlock-your-inner-warrior-spirit"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Master Your Mind, Conquer Your Life: The Samurai Code of Bushido for the Modern Warrior

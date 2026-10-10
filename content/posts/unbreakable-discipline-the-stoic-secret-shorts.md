@@ -7,6 +7,7 @@ tags: ["Stoic discipline", "Marcus Aurelius", "self control", "motivation", "hab
 slug: "unbreakable-discipline-the-stoic-secret-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Motivation: Forge Unbreakable Discipline with Ancient Stoic Secrets (Marcus Aurelius, Seneca & Epictetus's Guide)

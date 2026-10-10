@@ -7,6 +7,7 @@ tags: ["developer roadmap", "tech trends", "programming skills"]
 slug: "developer-roadmap-2026-trends-tools-and-skills"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "IyETpy9Swdk" >}}

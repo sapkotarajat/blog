@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "Dave Ramsey"
 slug: "why-dave-ramseys-advice-actually-works"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Break Free from the Shackles of Debt: Why Dave Ramsey's Advice Actually Works for Achieving **Financial Freedom**

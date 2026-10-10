@@ -7,6 +7,7 @@ tags: ["Rob Dial", "self-discipline", "Stoicism", "motivation", "productivity", 
 slug: "rob-dials-discipline-myth-break-it-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **The “Discipline Myth” Busted: How to Use Stoic Wisdom to Turn Self‑Discipline into a Daily Habit**  

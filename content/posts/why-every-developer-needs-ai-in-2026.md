@@ -7,6 +7,7 @@ tags: ["artificial intelligence", "software development", "coding"]
 slug: "why-every-developer-needs-ai-in-2026"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "g-dNUC5yoss" >}}

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-wasting-your-life-senecas-ultimate-lesson"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Your Time: How to Stop Wasting Your Life and Live with Purpose

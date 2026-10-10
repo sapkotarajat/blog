@@ -7,6 +7,7 @@ tags: ["stoicism", "motivation", "selfimprovement", "willpower", "mindset", "epi
 slug: "willpower-is-a-myth-heres-true-control-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Willpower Trap: Why Modern Self-Control Fails & How Ancient Stoicism Offers True, Lasting Power

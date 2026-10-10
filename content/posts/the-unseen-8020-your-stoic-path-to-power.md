@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-unseen-8020-your-stoic-path-to-power"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Achieving 80% of Your Desired Outcomes with Just 20% of Your Effort: The Unseen 80/20 Rule

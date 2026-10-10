@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "escape-the-busy-trap-reclaim-your-life"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Break Free from the Busy Trap: Reclaim Your Life and Unlock Your True Potential**

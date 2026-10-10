@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-wasting-your-life-senecas-harsh-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Break Free from the Chains of Time Waste: How to Harness the Power of Your Most Precious Resource

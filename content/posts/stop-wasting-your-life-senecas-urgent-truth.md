@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "time management
 slug: "stop-wasting-your-life-senecas-urgent-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Stop Wasting Your Life: Unleashing the Urgent Truth of Seneca for a Life of Intention and Purpose**

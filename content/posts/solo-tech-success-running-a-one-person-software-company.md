@@ -7,6 +7,7 @@ tags: ["solo tech company", "software development", "productivity", "entrepreneu
 slug: "solo-tech-success-running-a-one-person-software-company"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

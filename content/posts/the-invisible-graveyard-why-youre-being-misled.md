@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-invisible-graveyard-why-youre-being-misled"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Hidden Trap of Survival Bias: How to Stop Chasing Mirages and Build Lasting Success

@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "less-is-more"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Break Free from the Paradox of Choice: How Less Can Be More in Achieving Your Goals

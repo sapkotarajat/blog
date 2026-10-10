@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "dont-waste-your-life-the-stoic-secret-to-time"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Time: How to Stop Wasting Your Life with Stoic Wisdom

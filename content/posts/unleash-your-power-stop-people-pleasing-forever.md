@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "unleash-your-power-stop-people-pleasing-forever"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Break Free from the Chains of People-Pleasing: Unlock Your True Potential

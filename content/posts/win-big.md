@@ -7,6 +7,7 @@ tags: ["motivation", "success", "mindset", "self improvement", "stoicism"]
 slug: "win-big"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secret to Achieving Greatness: Developing a **Winning Mindset**

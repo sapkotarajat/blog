@@ -7,6 +7,7 @@ tags: ["productivity", "automation", "time management"]
 slug: "10-tasks-youre-wasting-time-on-automate-now"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Your Day: 10 Time-Sucking Tasks You Can Automate TODAY for Peak Productivity

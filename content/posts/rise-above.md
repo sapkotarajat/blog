@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "morning routine
 slug: "rise-above"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Your Potential: The Stoic Morning Routine Highly Successful People Swear By

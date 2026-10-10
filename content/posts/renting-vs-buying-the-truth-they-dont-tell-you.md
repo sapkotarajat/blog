@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting", "h
 slug: "renting-vs-buying-the-truth-they-dont-tell-you"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Surprising Truth About Renting vs. Buying: Why Renting Might Be the Smarter Choice for Your Finances

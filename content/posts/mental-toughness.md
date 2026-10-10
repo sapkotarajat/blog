@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "Navy SEALs"]
 slug: "mental-toughness"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Forge Your Unbreakable Mind: How to Build Navy SEAL-Level Mental Toughness with Ancient Stoic Wisdom

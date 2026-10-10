@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "break-free"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking Free from the Comfort Zone Prison: Unlocking Your True Potential with Stoic Philosophy

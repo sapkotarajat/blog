@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "comfortzone", "selfimprovement", "productivity
 slug: "comfort-is-your-silent-killer-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Why Comfort Is Killing Your Dreams – 7 Stoic Strategies to Turn Discomfort into Success  

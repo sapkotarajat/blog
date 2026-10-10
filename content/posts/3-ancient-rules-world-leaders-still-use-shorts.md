@@ -7,6 +7,7 @@ tags: ["stoicism", "motivation", "leadership", "self-improvement", "philosophy",
 slug: "3-ancient-rules-world-leaders-still-use-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Boardroom: 3 Ancient Stoic Secrets World Leaders Use to Forge Unshakeable Resilience and Command Their Destiny

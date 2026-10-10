@@ -9,6 +9,7 @@ tags: ["Gen Z AI", "AI Skepticism", "AI Adoption", "Gen Z Technology", "Gallup S
 slug: "gen-zs-31-ai-anger-is-wrong-heres-why"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The AI Hype Cycle is Breaking: Why Gen Z's Negative Sentiment Matters

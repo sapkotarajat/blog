@@ -7,6 +7,7 @@ tags: ["discipline", "motivation", "stoicism", "selfimprovement", "productivity"
 slug: "the-hard-truth-that-builds-discipline-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Unstoppable Discipline: The Counter-Intuitive Truth About Why Motivation Is Overrated (and How to Act Anyway)

@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting"]
 slug: "renting-isnt-waste"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Stop Believing the Myth: Why Renting is a Smart Financial Move (and How to Make it Work for You)

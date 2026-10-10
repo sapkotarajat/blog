@@ -7,6 +7,7 @@ tags: ["tech", "technical debt", "software development"]
 slug: "managing-technical-debt-without-losing-your-mind"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Escape the Code Labyrinth: Your Ultimate Guide to Conquering Technical Debt Without Losing Your Sanity

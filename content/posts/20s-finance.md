@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting"]
 slug: "20s-finance"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Level Up Your 20s: 20 Crucial Financial Mistakes to AVOID (And How to Build Lasting Wealth)

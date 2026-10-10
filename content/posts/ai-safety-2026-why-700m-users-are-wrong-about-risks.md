@@ -7,6 +7,7 @@ tags: ["AI Safety Online", "Secure AI Usage", "AI Tool Security", "AI Risk Manag
 slug: "ai-safety-2026-why-700m-users-are-wrong-about-risks"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Alarming Truth About AI Safety: Why 700M Users Are Wrong About Risks

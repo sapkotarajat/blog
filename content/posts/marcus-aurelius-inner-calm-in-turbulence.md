@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "marcus-aurelius-inner-calm-in-turbulence"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlocking the Secrets of Inner Calm: How to Stay Focused in a Chaotic World with **Stoicism**

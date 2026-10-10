@@ -7,6 +7,7 @@ tags: ["AI therapy", "mental health AI", "therapy costs", "ChatGPT therapy", "AI
 slug: "i-replaced-my-therapist-with-ai-saved-5000"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

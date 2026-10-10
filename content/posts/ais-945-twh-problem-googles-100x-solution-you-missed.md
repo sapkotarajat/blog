@@ -7,6 +7,7 @@ tags: ["AI energy crisis", "Google AI", "Neuro-symbolic AI", "Energy efficiency"
 slug: "ais-945-twh-problem-googles-100x-solution-you-missed"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The Looming AI Energy Crisis: How Google's Neuro-Symbolic AI Offers a Radical Solution

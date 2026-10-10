@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "bank fees", 
 slug: "your-banks-secret-why-youre-losing-money"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Your Bank's Secret Playbook: How to Stop Losing Money and Start Building Real Wealth

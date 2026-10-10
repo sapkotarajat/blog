@@ -7,6 +7,7 @@ tags: ["ChatGPT", "monetization", "AI", "machine learning", "income generation"]
 slug: "turn-chatgpt-into-a-money-making-machine"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

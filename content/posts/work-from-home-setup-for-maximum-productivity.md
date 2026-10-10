@@ -7,6 +7,7 @@ tags: ["work from home", "productivity", "setup", "home office"]
 slug: "work-from-home-setup-for-maximum-productivity"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Potential: The Ultimate Work From Home Setup Guide for Unstoppable Productivity & Focus

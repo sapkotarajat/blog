@@ -7,6 +7,7 @@ tags: ["AI predictions", "artificial intelligence", "tech news"]
 slug: "ai-predictions-for-2027-what-to-expect"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

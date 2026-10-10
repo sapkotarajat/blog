@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "Dave Ramsey"
 slug: "why-dave-ramseys-plan-actually-works-for-millions"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlocking Financial Freedom: The Psychology Behind Dave Ramsey's Unstoppable Financial Plan

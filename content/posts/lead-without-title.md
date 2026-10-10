@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "leadership"]
 slug: "lead-without-title"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Unleash Your Inner Leader: How to Lead Without a Title and Make a Lasting Impact**

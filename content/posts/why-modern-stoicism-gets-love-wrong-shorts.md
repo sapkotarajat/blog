@@ -7,6 +7,7 @@ tags: ["Stoicism", "Love", "Relationships", "SelfImprovement", "MarcusAurelius",
 slug: "why-modern-stoicism-gets-love-wrong-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Emotional Detachment: Reclaiming True Love with Ancient Stoicism

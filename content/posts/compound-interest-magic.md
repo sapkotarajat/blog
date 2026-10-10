@@ -7,6 +7,7 @@ tags: ["compound interest", "personal finance", "investing", "wealth creation", 
 slug: "compound-interest-magic"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Ultimate Guide to Compound Interest: How to Make Your Money Work Harder So You Don't Have To

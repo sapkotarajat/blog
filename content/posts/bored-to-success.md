@@ -7,6 +7,7 @@ tags: ["motivation", "productivity", "stoicism", "self improvement", "mindset"]
 slug: "bored-to-success"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## From Boredom to Success: How a Simple Mindset Shift Can Transform Your Life

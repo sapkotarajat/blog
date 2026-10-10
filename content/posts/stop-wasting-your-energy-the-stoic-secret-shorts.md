@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "SelfImprovement", "Mindset", "Epictetus", "Mar
 slug: "stop-wasting-your-energy-the-stoic-secret-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Reclaim Your Power: The Ancient Stoic Secret to Mastering Your Energy and Finding Unshakeable Peace

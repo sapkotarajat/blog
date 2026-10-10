@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-immortal-mark-build-a-legacy-that-outlives-you"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Secrets to Building an Everlasting Legacy: Creating a Lasting Impact that Transcends Your Lifetime

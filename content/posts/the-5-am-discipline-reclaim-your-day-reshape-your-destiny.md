@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-5-am-discipline-reclaim-your-day-reshape-your-destiny"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **The 5 AM Revolution: How Waking Early Unlocks Unstoppable Productivity, Mental Clarity, and a Life of Purpose**

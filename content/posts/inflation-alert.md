@@ -7,6 +7,7 @@ tags: ["personal finance", "inflation", "money tips", "investing"]
 slug: "inflation-alert"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Inflation Alert: The Silent Thief Stealing Your Money and How to Protect Your Wealth**

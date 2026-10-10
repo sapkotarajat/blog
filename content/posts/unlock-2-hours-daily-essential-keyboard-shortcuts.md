@@ -7,6 +7,7 @@ tags: ["productivity", "keyboard shortcuts", "tech"]
 slug: "unlock-2-hours-daily-essential-keyboard-shortcuts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

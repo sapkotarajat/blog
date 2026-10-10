@@ -7,6 +7,7 @@ tags: ["regex", "regular expressions", "programming"]
 slug: "regex-for-beginners-master-patterns"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "DD6gr3uu-Yo" >}}

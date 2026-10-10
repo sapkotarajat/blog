@@ -7,6 +7,7 @@ tags: ["database design", "software development", "data modeling"]
 slug: "database-design-101-for-developers"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Peak Performance: Your Ultimate Guide to Database Design for Scalable Software Development

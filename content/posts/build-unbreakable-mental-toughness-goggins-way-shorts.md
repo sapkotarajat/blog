@@ -7,6 +7,7 @@ tags: ["mental toughness", "david goggins", "stoicism", "motivation", "self impr
 slug: "build-unbreakable-mental-toughness-goggins-way-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Inner Spartan: Forge Unbreakable Mental Toughness the David Goggins & Stoic Way

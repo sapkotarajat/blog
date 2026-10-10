@@ -7,6 +7,7 @@ tags: ["prompt engineering", "passive income", "AI", "machine learning"]
 slug: "unlocking-passive-income-with-prompt-engineering"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "IVFhzSZ3mz4" >}}

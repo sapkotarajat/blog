@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "leadership"]
 slug: "vulnerable-lead"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Unseen Strength: Why Vulnerability in Leadership Will Revolutionize Your Team and Drive Innovation

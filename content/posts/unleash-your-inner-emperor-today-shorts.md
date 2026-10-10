@@ -7,6 +7,7 @@ tags: ["Stoicism", "MarcusAurelius", "selfimprovement", "motivation", "philosoph
 slug: "unleash-your-inner-emperor-today-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Master Your Mind: Unlock Your Inner Emperor with Timeless Stoic Wisdom

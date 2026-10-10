@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "sunk cost falla
 slug: "stop-ruining-your-life-the-sunk-cost-trap"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking Free from the Sunk Cost Trap: How to Stop Ruining Your Life with **Past Investments**

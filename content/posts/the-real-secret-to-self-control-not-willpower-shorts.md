@@ -7,6 +7,7 @@ tags: ["Stoicism", "SelfControl", "Motivation", "MarcusAurelius", "Epictetus", "
 slug: "the-real-secret-to-self-control-not-willpower-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond Willpower: The Ancient Stoic Blueprint for Effortless Self-Control

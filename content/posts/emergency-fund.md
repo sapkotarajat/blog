@@ -7,6 +7,7 @@ tags: ["personal finance", "emergency fund", "saving money", "budgeting", "money
 slug: "emergency-fund"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Financial Freedom: Your Ultimate Guide to Building a Bulletproof Emergency Fund from Scratch

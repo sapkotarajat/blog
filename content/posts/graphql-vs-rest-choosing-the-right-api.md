@@ -7,6 +7,7 @@ tags: ["GraphQL", "REST", "API", "web development", "programming"]
 slug: "graphql-vs-rest-choosing-the-right-api"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Beyond the Hype: GraphQL vs. REST – Mastering Your API Strategy for Modern Web Development

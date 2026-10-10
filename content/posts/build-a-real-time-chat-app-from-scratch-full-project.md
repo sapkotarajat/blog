@@ -7,6 +7,7 @@ tags: ["real-time chat app", "full stack development", "JavaScript", "HTML", "CS
 slug: "build-a-real-time-chat-app-from-scratch-full-project"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

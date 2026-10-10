@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "detachment", "r
 slug: "master-your-mind-detach-from-outcomes-like-a-stoic"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Power of Detachment: Mastering Your Mind for Relentless Success

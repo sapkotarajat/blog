@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "ancient-greek-secret"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The Untapped Ancient Greek Secret: How Stoic Philosophy Can Transform Your Mindset for Lasting Happiness

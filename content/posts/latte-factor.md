@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "budgeting", "saving money", "investing
 slug: "latte-factor"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Your Daily Latte is Costing You a Fortune: Unleash the Power of the Latte Factor to Build Massive Wealth

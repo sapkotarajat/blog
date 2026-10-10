@@ -7,6 +7,7 @@ tags: ["AI in healthcare", "radiology", "medical technology", "AI experimentatio
 slug: "i-replaced-a-radiologist-with-ai-for-a-month"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "8vos5k9wrPI" >}}

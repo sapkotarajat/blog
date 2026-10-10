@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "Dave Ramsey"
 slug: "why-dave-ramseys-plan-works-for-most-people"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unlock Your Financial Freedom: Why Dave Ramsey's Baby Steps Transform Millions

@@ -7,6 +7,7 @@ tags: ["debugging", "codereview", "softwaredevelopment"]
 slug: "debug-like-a-pro-senior-developer-secrets"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Debug Like a Pro: Unlock Senior Developer Secrets to Flawless Code

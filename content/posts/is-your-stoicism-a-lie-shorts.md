@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "SelfImprovement", "MarcusAurelius", "Epictetus
 slug: "is-your-stoicism-a-lie-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Beyond the Stiff Upper Lip: How "Fake Stoicism" Limits You and True Wisdom Sets You Free

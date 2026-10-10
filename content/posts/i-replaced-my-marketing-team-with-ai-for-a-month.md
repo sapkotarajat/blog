@@ -7,6 +7,7 @@ tags: ["AI marketing", "AI tools", "marketing automation", "faceless channel", "
 slug: "i-replaced-my-marketing-team-with-ai-for-a-month"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 

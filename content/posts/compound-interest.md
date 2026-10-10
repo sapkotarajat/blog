@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "compound interest"]
 slug: "compound-interest"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unleash Your Inner Millionaire: How Compound Interest Makes Your Money Grow While You Sleep

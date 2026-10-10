@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "stop-wasting-your-life-senecas-ultimate-time-guide"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## **Reclaim Your Life: Mastering Time Management with Seneca's Wisdom**

@@ -7,6 +7,7 @@ tags: ["Stoicism", "Motivation", "SelfImprovement", "Mindset", "MarcusAurelius",
 slug: "stoic-secret-thrive-in-chaos-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Unleash Your Inner Calm: The Ancient Stoic Secret to Thriving in a Chaotic Modern World

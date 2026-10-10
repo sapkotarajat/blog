@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset", "the monk who so
 slug: "the-monk-who-sold-his-ferrari-master-your-mind-master-your-life"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 **Mastering the Art of Inner Peace: How to Break Free from the Shackles of Materialism and Unlock a Life of True Purpose**

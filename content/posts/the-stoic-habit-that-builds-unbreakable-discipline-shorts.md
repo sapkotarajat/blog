@@ -7,6 +7,7 @@ tags: ["stoicism", "discipline", "motivation", "selfimprovement", "mindset", "se
 slug: "the-stoic-habit-that-builds-unbreakable-discipline-shorts"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # The One Stoic Habit That Supercharges Your Discipline (And How to Master It Today)

@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "FIRE movemen
 slug: "retire-by-45-the-fire-movement-blueprint"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock Your Freedom: The Complete Blueprint to Financial Independence and Retiring by 45 with the FIRE Movement

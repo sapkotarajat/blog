@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "unmasking-your-time-thieves-senecas-brutal-truth"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Unlock the Brutal Truth: Time Management Secrets from Seneca to Reclaim Your Life

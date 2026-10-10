@@ -7,6 +7,7 @@ tags: ["AI productivity", "AI tools", "productivity experiment", "ChatGPT", "Not
 slug: "i-replaced-my-productivity-tools-with-ai-for-30-days-i-was-wrong"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 {{< youtube "GB80_Mg4UBA" >}}

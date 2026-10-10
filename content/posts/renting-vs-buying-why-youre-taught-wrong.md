@@ -7,6 +7,7 @@ tags: ["personal finance", "money tips", "investing", "budgeting", "renting vs b
 slug: "renting-vs-buying-why-youre-taught-wrong"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Rethink Everything: Why the 'Renting is Throwing Money Away' Myth Could Be Costing You Millions in Wealth

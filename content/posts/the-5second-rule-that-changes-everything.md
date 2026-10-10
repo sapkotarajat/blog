@@ -7,6 +7,7 @@ tags: ["motivation", "stoicism", "self improvement", "mindset"]
 slug: "the-5second-rule-that-changes-everything"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 # Crush Procrastination, Ignite Motivation: How the 5-Second Rule Will Transform Your Life

@@ -9,6 +9,7 @@ tags: ["AI breakthrough 2026", "agentic AI", "energy efficiency AI", "neuro-symb
 slug: "ais-dark-secret-the-500m-power-shift-you-missed"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## The AI Revolution: How Energy Efficiency and Agentic AI Are Redefining the Future

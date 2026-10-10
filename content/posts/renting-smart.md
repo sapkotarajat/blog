@@ -7,6 +7,7 @@ tags: ["personal finance", "renting", "money tips", "budgeting", "investing"]
 slug: "renting-smart"
 ShowToc: true
 TocOpen: false
+draft: true
 ---
 
 ## Breaking the Rental Stigma: How to Make Renting a Smart Financial Move
