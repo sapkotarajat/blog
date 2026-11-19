@@ -8,6 +8,14 @@ slug: "studio-setup"
 ShowToc: true
 TocOpen: true
 draft: false
+# Comment-keyword resource: live at its URL, kept off the home page, lists, tags, RSS, search and sitemap.
+resource: true
+_build:
+  list: never
+sitemap:
+  disable: true
+searchHidden: true
+robotsNoIndex: true
 ---
 
 You commented STUDIO. Here is the whole thing, with the parts named, what each one does, and what it cost. Nothing here is a product you can install; it is my own setup, built with Claude Code over a few weeks, and I describe it so you can build your own version of the parts you need.

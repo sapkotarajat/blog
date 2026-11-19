@@ -8,6 +8,14 @@ slug: "month-plan-template"
 ShowToc: true
 TocOpen: false
 draft: false
+# Comment-keyword resource: live at its URL, kept off the home page, lists, tags, RSS, search and sitemap.
+resource: true
+_build:
+  list: never
+sitemap:
+  disable: true
+searchHidden: true
+robotsNoIndex: true
 ---
 
 You commented PLAN. Here is the file, the way the system reads it, and a template with three real entries from my own November.

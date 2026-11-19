@@ -8,6 +8,14 @@ slug: "clipping-system"
 ShowToc: true
 TocOpen: true
 draft: false
+# Comment-keyword resource: live at its URL, kept off the home page, lists, tags, RSS, search and sitemap.
+resource: true
+_build:
+  list: never
+sitemap:
+  disable: true
+searchHidden: true
+robotsNoIndex: true
 ---
 You commented CLIP. This is the system, with the code that matters. It is not a product. It cuts Shorts out of my own films in my own format, and that narrow scope is exactly why it works.
 

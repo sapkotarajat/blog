@@ -8,6 +8,14 @@ slug: "prompt-before-coding"
 ShowToc: true
 TocOpen: false
 draft: false
+# Comment-keyword resource: live at its URL, kept off the home page, lists, tags, RSS, search and sitemap.
+resource: true
+_build:
+  list: never
+sitemap:
+  disable: true
+searchHidden: true
+robotsNoIndex: true
 ---
 
 You commented PROMPT. Here it is as text, then the reasons, then how I keep it in the repository so I never have to paste it again.
