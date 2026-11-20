@@ -23,11 +23,12 @@ You commented STUDIO. Here is the whole thing, with the parts named, what each o
 
 *Updated 19 November 2026: Facebook and Instagram now go through Meta Business Suite, comments that ask for this page are answered by DM, and there is a new section on the 3 tools from the reel.*
 
-**Rather watch it?** Here is the 6-minute tour of the same studio on my YouTube channel:
+**नेपालीमा हेर्न चाहनुहुन्छ?** यही studio ले मेरो आफ्नै AI version कसरी बनायो, मेरो नेपाली च्यानलमा:
 
-{{< youtube llkOiYimTnk >}}
+{{< youtube ciZoo-Kj-uo >}}
 
-New videos on how I build with AI every week: [subscribe on YouTube](https://www.youtube.com/@sapkotarajatdev?sub_confirmation=1) · [all my links](https://sapkotarajat.com.np/links)
+हरेक हप्ता AI सँग काम गर्ने कुरा नेपालीमा: **[YouTube मा subscribe गर्नुस् (@sapkotarajatnp)](https://www.youtube.com/@sapkotarajatnp?sub_confirmation=1)**
+In English: [the 6-minute studio tour](https://youtu.be/llkOiYimTnk) on [@sapkotarajatdev](https://www.youtube.com/@sapkotarajatdev?sub_confirmation=1) · [all my links](https://sapkotarajat.com.np/links)
 
 ## What it is in one paragraph
 
@@ -149,10 +150,10 @@ Questions in the comments on the reel, or on LinkedIn.
 
 ## Watch me build the next parts
 
-I post the build as it happens on YouTube: what worked, what broke, and the exact prompts. Start with the prompt I paste before AI touches my code:
+I post the build as it happens on YouTube: what worked, what broke, and the exact prompts. Here is the full 6-minute tour of this studio:
 
-{{< youtube OxpOSWamEtE >}}
+{{< youtube llkOiYimTnk >}}
 
-- **YouTube (English):** [@sapkotarajatdev](https://www.youtube.com/@sapkotarajatdev?sub_confirmation=1)
-- **YouTube (नेपाली):** [@sapkotarajatnp](https://www.youtube.com/@sapkotarajatnp?sub_confirmation=1)
+- **YouTube (नेपाली):** [@sapkotarajatnp](https://www.youtube.com/@sapkotarajatnp?sub_confirmation=1), AI र tech का कुरा सजिलो नेपालीमा
+- **YouTube (English):** [@sapkotarajatdev](https://www.youtube.com/@sapkotarajatdev?sub_confirmation=1), the build in English
 - **Everything else** (Instagram, TikTok, LinkedIn, GitHub, CV): [sapkotarajat.com.np/links](https://sapkotarajat.com.np/links)
