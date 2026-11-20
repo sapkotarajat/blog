@@ -1,7 +1,7 @@
 ---
 title: "The full setup: how an AI studio runs my two YouTube channels from a Mac in Nepal"
 date: 2026-11-01T19:30:00+05:45
-lastmod: 2026-11-19T22:30:00+05:45
+lastmod: 2026-11-20T18:00:00+05:45
 description: "Every piece of the studio behind my channels: the month file, the renderer, the cloned voice, the scheduler, the 3 tools from the reel (vidIQ, Claude in Chrome, ElevenLabs), and the one rule that keeps me in charge. The write-up I promised for 'comment STUDIO'."
 categories: ["tech"]
 tags: ["ai", "automation", "youtube", "building in public", "remotion", "fastapi", "claude code", "mcp", "vidiq", "elevenlabs", "claude in chrome"]
@@ -22,6 +22,12 @@ robotsNoIndex: true
 You commented STUDIO. Here is the whole thing, with the parts named, what each one does, and what it costs. Nothing here is a product you can install. It is my own setup, built with Claude Code, and I describe it so you can build your own version of the parts you need.
 
 *Updated 19 November 2026: Facebook and Instagram now go through Meta Business Suite, comments that ask for this page are answered by DM, and there is a new section on the 3 tools from the reel.*
+
+**Rather watch it?** Here is the 6-minute tour of the same studio on my YouTube channel:
+
+{{< youtube llkOiYimTnk >}}
+
+New videos on how I build with AI every week: [subscribe on YouTube](https://www.youtube.com/@sapkotarajatdev?sub_confirmation=1) · [all my links](https://sapkotarajat.com.np/links)
 
 ## What it is in one paragraph
 
@@ -140,3 +146,13 @@ Build it in this order and stop when it is enough:
 6. The inbox for comments, last. It is the part that makes the channel feel alive, and the part you want a human on.
 
 Questions in the comments on the reel, or on LinkedIn.
+
+## Watch me build the next parts
+
+I post the build as it happens on YouTube: what worked, what broke, and the exact prompts. Start with the prompt I paste before AI touches my code:
+
+{{< youtube OxpOSWamEtE >}}
+
+- **YouTube (English):** [@sapkotarajatdev](https://www.youtube.com/@sapkotarajatdev?sub_confirmation=1)
+- **YouTube (नेपाली):** [@sapkotarajatnp](https://www.youtube.com/@sapkotarajatnp?sub_confirmation=1)
+- **Everything else** (Instagram, TikTok, LinkedIn, GitHub, CV): [sapkotarajat.com.np/links](https://sapkotarajat.com.np/links)
